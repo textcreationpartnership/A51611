@@ -1,0 +1,2022 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay to revive the antient education of gentlewomen in religion, manners, arts &amp; tongues with an answer to the objections against this way of education.</title>
+            <title>Essay to revive the antient education of gentlewomen, in religion, manners, arts &amp; tongues</title>
+            <author>Makin, Bathsua, fl. 1612-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51611</idno>
+            <idno type="STC">Wing M309</idno>
+            <idno type="STC">ESTC R8034</idno>
+            <idno type="EEBO-CITATION">12639306</idno>
+            <idno type="OCLC">ocm 12639306</idno>
+            <idno type="VID">64990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 697:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay to revive the antient education of gentlewomen in religion, manners, arts &amp; tongues with an answer to the objections against this way of education.</title>
+                  <title>Essay to revive the antient education of gentlewomen, in religion, manners, arts &amp; tongues</title>
+                  <author>Makin, Bathsua, fl. 1612-1673.</author>
+               </titleStmt>
+               <extent>43 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.D., to be sold by Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Education.</term>
+               <term>Education --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64990:1"/>
+            <pb facs="tcp:64990:1" rendition="simple:additions"/>
+            <p>AN ESSAY To Revive the Antient Education OF Gentlewomen, IN
+Religion, Manners, Arts &amp; Tongues. WITH An Anſwer to the Objections
+againſt this Way of Education.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. D.</hi> to be ſold by
+<hi>Tho. Parkhurſt,</hi> at the Bible and Crown at the lower end of
+<hi>Cheapſide.</hi> 1673.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64990:2"/>
+            <pb n="3" facs="tcp:64990:2"/>
+            <head>To all Ingenious and Vertuous Ladies, more eſpecially to her
+Highneſs the La<g ref="char:EOLhyphen"/>dy MARY, Eldeſt Daughter to his Royal Highneſs the Duke
+of YORK.</head>
+            <p>CUſtom, when it is inveterate, hath a mighty influ<g ref="char:EOLhyphen"/>ence: it hath
+the force of Nature it ſelf. The Bar<g ref="char:EOLhyphen"/>barous cuſtom to breed Women low, is
+grown general amongſt us, and hath prevailed ſo far, that it is ve<g ref="char:EOLhyphen"/>rily
+believed (eſpecially amongſt a ſort of debauched Sots) that Women are not
+endued with ſuch Reaſon, as Men; nor capable of improvement by Education,
+as they are. It is lookt upon as a monſtrous thing, to pretend the contrary.
+A Learned Woman is thought to be a Comet, that bodes Miſchief, when ever it
+appears. To offer to the World the liberal Education of Women is to deface the
+Image of God in Man, it will make Women ſo high, and men ſo low, like Fire
+in the Houſe-top, it will ſet the whole world in a Flame.</p>
+            <p>Theſe things and worſe then theſe, are commonly talked of,
+and verily believed by many, who think themſelves wiſe Men: to contradict
+theſe is a bold attempt; where the Attempter muſt expect to meet with much
+oppoſition. Therefore, Ladyes, I beg the candid Opinion of your Sex, whoſe
+Intereſt I aſſert. More eſpecially I implore the Fa<g ref="char:EOLhyphen"/>vour of your Royal
+Highneſs, a Perſon moſt Eminent amongſt them, whoſe Patronage alone
+will be a ſufficient Protection. What I have written is not out of humour to
+ſhew how much may be ſaid of a trivial thing to little purpoſe. I verily
+think, Women were formerly Educated in the knowledge of Arts and Tongues, and
+by their Education, many did riſe to a great height in Learning. Were Women
+thus Educated now,<pb n="4" facs="tcp:64990:3"/>I am confident the advantage would be very
+great: The Wo<g ref="char:EOLhyphen"/>men would have Honour and Pleaſure, their Relations Pro<g ref="char:EOLhyphen"/>fit,
+and the whole Nation Advantage. I am very ſenſible it is an ill time to
+ſet on foot this Deſign: wherein not only Learning but Vertue it ſelf is
+ſcorn'd and neglected, as pedan<g ref="char:EOLhyphen"/>tick things, fit only for the Vulgar. I know
+no better way to reform theſe Exorbitancies, than to perſwade Women to
+ſcorn thoſe Toyes and Trifles, they now ſpend their time about, and to
+attempt higher things, here offered: This will either reclaim the Men; or make
+them aſhamed to claim the Sovereignty over ſuch as are more Wiſe and
+Vertuous than themſelves.</p>
+            <p>Were a competent number of Schools erected to Educate Ladyes
+ingenuouſly, methinks I ſee how aſham'd Men would be of their Ignorance,
+and how induſtrious the next Genera<g ref="char:EOLhyphen"/>tion would be to wipe off their
+Reproach.</p>
+            <p>I expect to meet with many Scoffes and Taunts from
+incon<g ref="char:EOLhyphen"/>ſiderate and illiterate Men, that prize their own Luſts and
+Pleaſure more than your Profit and Content. I ſhall be the leſs concern'd
+at theſe, ſo long as I am in your favour; and this diſcourſe may be a
+Weapon in your hands to defend your ſelves, whilſt you endeavour to
+poliſh your Souls, that you may glorify God, and anſwer the end of your
+Creation, to be meet helps to your Husbands. Let not your Ladiſhips be
+of<g ref="char:EOLhyphen"/>fended, that I do not (as ſome have wittily done) plead for Female
+Preeminence. To ask too much is the way to be de<g ref="char:EOLhyphen"/>nied all. God hath made the
+Man the Head, if you be edu<g ref="char:EOLhyphen"/>cated and inſtructed, as I propoſe, I am ſure
+you will acknow<g ref="char:EOLhyphen"/>ledge it, and be ſatisfied that you are helps, that your
+Husbands do conſult and adviſe with you. (which if you be wiſe they will
+be glad of) and that your Husbands have the caſting-Voice, in whoſe
+determinations you will acquieſce. That this may be the effect of this
+Education in all Ladyes that ſhall attempt it, is the deſire of</p>
+            <closer>
+               <signed>Your Servant.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="5" facs="tcp:64990:3"/>
+            <head>To the Reader.</head>
+            <p>I Hope I ſhall not need to beg the patience of Ladyes to
+peruſe this Pamphlet: I have beſpoken, and do expect your Patro<g ref="char:EOLhyphen"/>nage;
+becauſe it is your Cauſe I plead againſt an ill cuſtom, pre<g ref="char:EOLhyphen"/>judicial to
+you, which Men will not willingly ſuffer to be broken. I would deſire Men
+not to prejudge and caſt aſide this Book upon the ſight of the Title. If
+I have ſolidly prov'd, what I do pretend to, and fairly anſwered the
+Objections brought againſt my Aſſerti<g ref="char:EOLhyphen"/>ons, and if I have propoſed
+ſomething that may be profitable to Man-kind, let it not be rejected. If this
+way of Educating La<g ref="char:EOLhyphen"/>dies ſhould (as its like, it never will) be generally
+practiſed, the greateſt hurt, that I fore-ſee, can enſue, is, to put
+your Sons upon greater diligence to advance themſelves in Arts and Languages;
+that they may be Superior to Women in Parts as well as in Place. This is the
+great thing I deſigne. I am a Man my ſelf, that would not ſuggeſt a
+thing prejudicial to our Sex. To propoſe Women rivals with us to Learning,
+will make us court <hi>Minerva</hi> more heartily, leſt they ſhould be more
+in Her Favour. I do verily think this to be the beſt way to diſpell the
+Clouds of Ignorance, and to ſtop the Flouds of Debauchery, that the next
+Generation may be more wiſe and vertuous than any of their Predeceſſours.
+It is an eaſie mat<g ref="char:EOLhyphen"/>ter to quibble and droll upon a ſubject of this nature,
+to ſcoff at Women kept ignorant, on purpoſe to be made ſlaves. This
+ſavours not at all of a Manly Spirit, to trample upon thoſe that are down.
+I forbid Scoffing and Scolding. Let any think themſelves agrieved, and come
+forth fairly into the Field againſt this feeble Sex, with ſolid Arguments
+to refute what I have aſſerted, I think I may pro<g ref="char:EOLhyphen"/>miſe to be their
+Champion.</p>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:64990:4"/>
+            <p>Theſe for my much Honoured and worthy Friend,
+<hi>&amp;c.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Have heard you diſcourſe of the Education of Gentlewomen
+in Arts and Tongues. I wonder any ſhould think of ſo vain a thing.</p>
+                  <p>Women do not much deſire Knowledge; they are of low parts,
+ſoft fickle natures, they have other things to do they will not mind if they
+be once Bookiſh; The end of Learning is to fit one for pub<g ref="char:EOLhyphen"/>lick Employment,
+which Women are not capable of. <hi>Women muſt not ſpeak in the
+Church,</hi> its againſt cuſtom. Solomon's good Houſe-wife is not
+commended for Arts and Tongues, but for looking after her Servants; And that
+which is worſt of all, they are of ſuch ill natures, they will abuſe
+their Education, and be ſo intolerably Proud, there will be no living with
+them: If all theſe things could be anſwered, they would not have
+leiſure.</p>
+                  <p>We ſend our Sons to School ſeven years, and yet not above
+one in five get ſo much of the Tongues only, ſo as to keep them, and
+nothing of Arts.</p>
+                  <p>Girls cannot have more than half the time allotted them. If they
+were capable, and had time, I cannot imagine what good it would do them. If it
+would do them good, where ſhould they be Inſtructed. Their converſe with
+Boyes would do them more hurt than all their Learning would do them good.</p>
+                  <p>I have no prejudice againſt the Sex, but would gladly have a
+fair anſwer to theſe things, or elſe ſhall breed up my Daughters as our
+fore-fathers did.</p>
+                  <p>Sir your Condeſcenſion herein will very much oblige,</p>
+                  <closer>
+                     <signed>Your affectionate Friend.</signed>
+                     <dateline>
+                        <date>May 29. 1673.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:64990:4"/>
+            <div type="section">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg>T ſhould be the earneſt Endeavour of all men, to im<g ref="char:EOLhyphen"/>ploy
+their Lives to thoſe noble, and excellent Ends, for which the Omnipotent and
+all-wiſe Creatour made them, which are, the Glory of God, the Eternal
+Hap<g ref="char:EOLhyphen"/>pineſs of their immortal Souls, and to be uſeful in their Places. One
+generation paſſeth away, and an other cometh: But the Earth, the Theatre on
+which we act, abideth for ever. All the Works of the Children of Men do remain,
+not only in reſpect of the preſent and future Emolument or Detriment,
+cau<g ref="char:EOLhyphen"/>ſed by them; But alſo in Reference to the Influence they have as
+examples on ſucceeding Ages. The harveſt of Bliſs or Woe, will be
+according to the Seed-time of this Life. This Life proceeds ordinari<g ref="char:EOLhyphen"/>ly, as it
+begins, 
+<q> 
+                     <l>Quo ſemel eſt imbuta recens ſervabit Odorem</l> 
+                     <l>Teſta diu —</l>
+                  </q>
+               </p>
+               <p>So great is the Force of the firſt Tincture any thing takes,
+whether good, or bad. As Plants in Gardens excel thoſe, that grow wild; or as
+Brutes, by due Management (Witneſs the Philoſophers Dogs) are much altered:
+So Men, by liberal Education, are much better'd, as to intellectuals and
+morals. All conclude great Care ought to be taken of the Males: But your doubt
+in your Letter is concerning the Females. I think the greater Care ought to be
+taken of Them: Be<g ref="char:EOLhyphen"/>cauſe Evil ſeems to be begun here, as in <hi>Eve,</hi>
+and to be propagated by her Daughters. When the Sons of God took unto
+themſelves the Daughters of Men, Wickedneſs multiplied apace. It was the
+cur<g ref="char:EOLhyphen"/>ſed Counſel of <hi>Balaam</hi> to debauch <hi>Iſrael</hi> by
+<hi>Balack's</hi> Idolatrous Women. Wretched <hi>Jezebel</hi> excites
+<hi>Ahab</hi> to greater Wickedneſs, than he could ever have thought of. God
+gave ſtrict Command to the Iſraelites, not to marry with heatheniſh
+Women, When <hi>Solomon</hi> himſelf (the wiſeſt of Men) did this, they
+ſoon drew his Heart from God. Bad Women, weak to make Reſiſtance, are
+ſtrong to tempt to evil: There<g ref="char:EOLhyphen"/>fore without all Doubt great Care ought to be
+taken, timely to ſeaſon them with Piety and Virtue.</p>
+               <p>
+                  <pb n="8" facs="tcp:64990:5"/>your great Queſtion is, Whether to breed up
+Women in Arts and Tongues, is not a mere new Device, never before practiſed
+in the World. This you doubt the more<g ref="char:punc">▪</g> Becauſe Women are of low Parts,
+and not capable of Improvement by this Education. If they could be improved,
+you doubt, whether it would benefit them? If it would benefit them, you enquire
+where ſuch Education may be had? or, whether they muſt go to School with
+Boys? to be made twice more impudent than learned. At laſt you muſter up a
+Legion of Objections.</p>
+               <p>I ſhall ſpeak diſtinctly to your Queſtions, and then
+anſwer your Objections.</p>
+               <div type="question">
+                  <head>Women have formerly been educated in Arts and
+Tongues.</head>
+                  <p>Little is recorded concerning the manner, how Women were
+e<g ref="char:EOLhyphen"/>ducated formerly: You can expect my Proof to be only topical and by
+Circumſtances.</p>
+                  <p>It doth appear out of Sacred Writ, that Women were imployed in
+moſt of the great Tranſactions that happened in the World, even in
+reference to Religion. <hi>Miriam</hi> ſeems to be next to <hi>Moſes</hi>
+and <hi>Aaron,</hi> ſhe was a great Poet, and Philoſopher: For both
+Learning, and Re<g ref="char:EOLhyphen"/>ligion were generally in former times wrapt up in Verſe.</p>
+                  <p>The Women met <hi>David,</hi> ſinging triumphant Songs,
+compoſed (it's like by themſelves) a great Specimen of liberal
+Education.</p>
+                  <p>
+                     <hi>Deborah,</hi> the Deliverer of <hi>Iſrael,</hi> was
+without all doubt a learned Woman, that underſtood the Law. <hi>Huldah</hi>
+the Propheteſs, dwelt in a Colledge, (we may ſuppoſe) where Women were
+trained up in good Literature. We may be ſure ſhe was a very wiſe Woman:
+For King <hi>Joſiah</hi> ſends <hi>Hilkiah</hi> the Prieſt, and the
+Nobles of his Court, in a Caſe of Difficulty and Danger, to conſult with
+her. 2 <hi>Chro.</hi> 34.20.21 &amp;c.</p>
+                  <p>In the New Teſtament we find <hi>Anna</hi> a
+Propheteſs.</p>
+                  <p>
+                     <hi>Paul,</hi> Rom. 16.1. Commends unto them <hi>Phebe,</hi>
+who was not only a Servant of Chriſt: But a Servant of the Church at
+<hi>Cencrea.</hi> Ver. 12. He tells us <hi>Triphena, Triphoſa</hi> and
+<hi>Perſis</hi> laboured much in the Lord. <hi>Priſcilla</hi> inſtructed
+<hi>Apollos.</hi>
+                  </p>
+                  <p>
+                     <hi>Timothy's</hi> Grandmother called <hi>Lois,</hi> and his
+Mother <hi>Eunice</hi> were not only Gracious Women, but learned Women; for
+from a Child they inſtructed him in the holy Scriptures. 2 <hi>Tim.</hi> 1.5.
+compared with <hi>Chap.</hi> 3.15. The Children of the Elect Lady, found
+walking in the Truth, were inſtructed by her. <hi>Philips</hi> four Daughters
+were Propheteſſes, <hi>Acts</hi> 21. Though Women may not ſpeak in the
+Church;<pb n="9" facs="tcp:64990:5"/>yet thoſe extraordinarily inabled, to whom
+<hi>Paul</hi> ſpeaks, 1 <hi>Cor.</hi> 11.5. might: For <hi>Paul</hi> directs
+them they ſhould not pray nor propheſie with their Heads uncovered, which
+ſuppoſes they might do the things. I ſhall not diſpute theſe Texts
+what this praying and propheſying was; it ſerves my Turn, that Women
+extraordinarily inabled, were pub<g ref="char:EOLhyphen"/>lickly imployed.</p>
+                  <p>We may infer from the Stories of the Muſes, that this way of
+Edu<g ref="char:EOLhyphen"/>cation was very ancient. All conclude the <hi>Heroes</hi> were men famous
+in their Generation, therefore canonized after their Deaths. We may with like
+Reaſon conclude, <hi>Minerva</hi> and the nine Muſes were Wo<g ref="char:EOLhyphen"/>men famous for
+Learning whilſt they lived, and therefore thus ado<g ref="char:EOLhyphen"/>red when dead.</p>
+                  <p>There is no Queſtion the <hi>Greeks</hi> and
+<hi>Romans,</hi> when moſt flouriſhing, did thus educate their Daughters:
+in Regard ſo many amongſt them were famous for Learning. As <hi>Sempronia,
+Cornelia, Lelia, Mutia, Cleobulina, Caſſandra, Terentia, Hortenſia,
+Sulpitia, Portia, Helvigia, Enonia, Paula, Albina, Pella, Zenobia, Valeria,
+Proba, Eudocia, Clau<g ref="char:EOLhyphen"/>dia,</hi> and many others.</p>
+                  <p>The Sybills could never have invented the Heroick, nor
+<hi>Sappho</hi> the Sapphick Verſes, had they been illiterate. Do you think
+<hi>Corinna</hi> could e<g ref="char:EOLhyphen"/>ver have thrice out done <hi>Pindar,</hi> upon a
+ſolemn Conteſt ſo excellent in his Lyrick Verſes, that none elſe
+durſt imitate him, had ſhe not been inſtructed in Arts?</p>
+                  <p>There was a Conteſt between twenty Grecian and twenty Roman
+Ladies, which were moſt excellent in Learning. The Romane Dames were the
+beſt Oratours: But the Grecian Ladies the beſt Philoſophers. This plainly
+ſhews they both were inſtructed in all kind of good Li<g ref="char:EOLhyphen"/>terature.</p>
+               </div>
+               <div type="question">
+                  <head>Women Educated in Arts and Tongues, have been eminent in
+them.</head>
+                  <p>I ſhould be too tedious, if I ſhould commemorate all upon
+Record, that have been Smatterers in Learning. I ſhall only mention ſome
+few Ladies that have been equal to moſt Men.</p>
+                  <p>It is reported of <hi>Zenobia</hi> Queen of <hi>Palmeria,</hi>
+that ſhe was not only excellent her ſelf in Arts and Arms: But Learning in
+her (like light in the Sun) influenced her whole People, only famous in her
+Daies.</p>
+                  <p>
+                     <hi>Olympia Fulnia Maurata,</hi> Tutreſs to the Empreſs of
+<hi>Germany,</hi> under<g ref="char:EOLhyphen"/>ſtood <hi>French, Latin, Dutch;</hi> ſhe was ſo
+good a <hi>Grecian,</hi> that ſhe read<pb n="10" facs="tcp:64990:6"/>publick Lectures in
+that Language. She was alſo reputed to be well skilled in Divinity.</p>
+                  <p>The Lady <hi>Jane Grey</hi> excelled <hi>Maurata</hi> in this,
+ſhe underſtood the <hi>Hebrew</hi> alſo. There is a large Diſcourſe
+of her Learning (in which ſhe took great delight) and Piety, in the Book of
+Martyrs.</p>
+                  <p>The preſent Dutcheſs of <hi>New-Caſtle,</hi> by her own
+Genius, rather than any timely Inſtruction, over-tops many grave
+Gown-Men.</p>
+                  <p>I am forbidden to mention the Counteſs <hi>Dowager</hi> of
+<hi>Huntington</hi> (in<g ref="char:EOLhyphen"/>ſtructed ſometimes by Mrs. <hi>Makin</hi>) how well
+ſhe underſtands <hi>Latin, Greek, Hebrew, French</hi> and
+<hi>Spaniſh;</hi> or what a proficient ſhe is in Arts, ſubſervient to
+Divinity, in which (if I durſt I would tell you) ſhe excels.</p>
+                  <p>The Princeſs <hi>Elizabeth,</hi> daughter to King
+<hi>Charles</hi> the firſt, to whom Mrs. <hi>Makin</hi> was Tutreſs, at
+nine Years old could write, read, and in ſome meaſure underſtand,
+<hi>Latin, Greek, Hebrew, French</hi> and <hi>Itali<g ref="char:EOLhyphen"/>an.</hi> Had ſhe lived,
+what a Miracle would She have been of her Sex!</p>
+                  <p>The Princeſs <hi>Elizabeth,</hi> eldeſt Daughter to the
+Queen of <hi>Bohe<g ref="char:EOLhyphen"/>mia,</hi> yet living, is verſed in all ſorts of choice
+Literature.</p>
+                  <p>Mrs. <hi>Thorold,</hi> Daughter of the Lady <hi>Car</hi> in
+Lincolnſhire, was ex<g ref="char:EOLhyphen"/>cellent in Philoſophy, and all ſorts of
+Learning.</p>
+                  <p>I cannot without Injury forget the Lady <hi>Mildmay,</hi> and
+Dr. <hi>Loves</hi> Daughters; Their Worth and Excellency in Learning is yet
+freſh in the Memory of many Men.</p>
+                  <p>
+                     <hi>Cornelia</hi> read publick Philoſophy-Lectures at
+<hi>Rome,</hi> ſhe brought up her Sons, the <hi>Gracchi,</hi> ſo, that they
+were the only Men famous in their Dayes. She was admired by <hi>Cicero</hi> for
+diverſe of her Works.</p>
+                  <p>The Papal Chair could not defend it ſelf, but was invaded by
+a Wo<g ref="char:EOLhyphen"/>man, for her Excellency in Learning above the men of her Times; As
+<hi>Volateran, Sigebertus, Platina</hi> and others, that have writ the Lives of
+the Roman Biſhops, do declare. She is remembred likewiſe to this pur<g ref="char:EOLhyphen"/>poſe
+by <hi>Boccaſius</hi> in his Book <hi>de Claris Mulieribus.</hi>
+                  </p>
+                  <p>
+                     <hi>Roſuida,</hi> a Saxon by Nation, She lived under
+<hi>Lotharius the firſt;</hi> She was Eloquent in the <hi>Greek</hi> and
+<hi>Roman</hi> Tongues, and practiſed in all good Arts. She compoſed many
+Works, not without great commenda<g ref="char:EOLhyphen"/>tion from the Readers. One to exhort to
+Chaſtity, Virtue, and Divine Worſhip. She publiſhed ſix
+<hi>Comedies;</hi> beſides a noble Poem in <hi>Hexameter verſe,</hi> of the
+Heroick Acts done by the <hi>Otho Ceſars;</hi> with divers others.</p>
+                  <p>
+                     <hi>Elizabetha</hi> of <hi>Schonaugia</hi> zealouſly
+imitated the Study and Practice of this <hi>Roſuida.</hi> She writ many
+things in the Latin Tongue; namely, a<pb n="11" facs="tcp:64990:6"/>Book intituled, <hi>A
+Path to direct us the way to God;</hi> as alſo a Volumn of Learned
+Epiſtles; with many other Books.</p>
+                  <p>I cannot omit <hi>Conſtantia</hi> the Wife of <hi>Alexander
+Sforza;</hi> She was ſo Learned, that upon the ſuddain and without any
+premeditation She was able ſufficiently to diſcourſe upon any Argument,
+either Theologi<g ref="char:EOLhyphen"/>cal, or Philoſophical: Beſides, She was very frequent in
+the works of St. <hi>Hierome, Ambroſe, Gregory, Cicero,</hi> and
+<hi>Lactantius.</hi> She was much admired for her Extempory vaine in Verſe.
+Her Daughter <hi>Baptiſta</hi> was equal to Her in Fame and Merit, and was
+reckoned among the beſt Learned, and moſt Illuſtrious Women.</p>
+                  <p>
+                     <hi>Chriſtina</hi> late Queen of <hi>Sweden</hi>
+underſtood ſeveral Languages, and was well verſed in Politicks, and
+acquainted with moſt Arts and Sci<g ref="char:EOLhyphen"/>ences.</p>
+                  <p>I thought of Queen <hi>Elizabeth</hi> firſt, but purpoſely
+mention Her laſt, as the Crown of all. How learned She was, the World can
+teſtifie. It was uſual for her to diſcourſe with Forraign Agents in
+their own Lan<g ref="char:EOLhyphen"/>guages. Mr. <hi>Aſcam,</hi> her Tutor, uſed to ſay, She
+read more <hi>Greek</hi> in a day then many of the Doctors of her time did
+<hi>Latin</hi> in a week. You ſee ſome Women have been good Proficients in
+moſt kinds of Learning. I ſhall now ſhew you how they have been excellent
+in ſome particular parts of it, as the <hi>Tongues, Oratory, Philoſophy,
+Divinity,</hi> and laſtly <hi>Po<g ref="char:EOLhyphen"/>etry.</hi>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>Women have been good Linguiſts.</head>
+                  <p>It is objected againſt Women, as a reproach, that they have
+too much Tongue: but it's no crime they have many Tongues; if it be, many Men
+would be glad to be guilty of that fault. The Tongue is the only Weapon Women
+have to defend themſelves with, and they had need to uſe it dextrouſly.
+Many ſay one tongue is enough for a Woman: it is but a quibble upon the word.
+Several Languages, under<g ref="char:EOLhyphen"/>ſtood by a Woman, will do our Gentlemen little hurt,
+who have little more than their Mother-Wit, and underſtand only their
+Mother-Tongue: theſe moſt uſually make this Objection, to hide their own
+Ignorance. Tongues are learnt in order to Things. As things were, and yet are
+in the World, its requiſite we learn Tongues to underſtand Arts: It's
+therefore a Commendation to theſe Women after menti<g ref="char:EOLhyphen"/>oned, that they were
+Miſtreſſes of Tongues.</p>
+                  <p>There is an ancient Copy of the Septuagent, ſent from the
+Patri<g ref="char:EOLhyphen"/>arch of <hi>Alexandria</hi> to King <hi>James,</hi> written by a Woman
+called <hi>Tecla,</hi> ſo accurate and excellent, that the Authors of the
+Polyglot-Bible choſe<pb n="12" facs="tcp:64990:7"/>it before all other Copies written or
+printed, to make uſe of in that Impreſſion.</p>
+                  <p>
+                     <hi>Anna Maria Schurman</hi> of <hi>
+                        <g ref="char:V">Ʋ</g>trecht,</hi> (called by
+<hi>Spanhemius, ultimum Naturae in hôc ſexu conatum, et decimam
+Muſam,</hi> Natures Maſter-piece amongſt Women, excelling the very
+Muſes) hath printed divers Works in <hi>Latin, Greek, French</hi> and the
+<hi>Perſian</hi> Tongue; ſhe underſtood the <hi>Arabick</hi> alſo<g ref="char:punc">▪</g>
+Beſides, ſhe was an excellent Poet.</p>
+                  <p>
+                     <hi>Amalaſuntha</hi> Queen of the <hi>Oſtrogothes,</hi>
+the Daughter of <hi>Theodericus,</hi> was a great Miſtreſs of the Latin and
+Greek Tongues, ſhe ſpake di<g ref="char:EOLhyphen"/>ſtinctly all the barbarous Languages that
+were uſed in the Eaſtern Empires.</p>
+                  <p>For Excellency in Tongues moſt of thoſe Perſons before
+mentio<g ref="char:EOLhyphen"/>ned are eminent Inſtances, <hi>Maurata,</hi> the Lady <hi>Jane
+Grey,</hi> and the three <hi>Elizabeths,</hi> &amp;c.</p>
+                  <p>Women have not been meer Talkers: (as ſome frivolous Men
+would make them) but they have known how to uſe Languages, when they have had
+them. Many Women have been excellent Ora<g ref="char:EOLhyphen"/>tours.</p>
+               </div>
+               <div type="question">
+                  <head>Women have been good Oratours.</head>
+                  <p>
+                     <hi>Valerius Maximus</hi> tell us of <hi>Ameſia</hi> a
+modeſt Roman Lady, when ſhe was accuſed of a great Crime, and ready to
+incur the Sentence of the Pretor, ſhe in a great Confluence ſtept up
+amongſt the People, and without any Advocate pleaded her own Cauſe ſo
+effectually, that by the publique Suffrage ſhe was acquitted from all
+Aſperſion whatſoe<g ref="char:EOLhyphen"/>ver, and from that Time ſhe was called
+<hi>Androgine.</hi>
+                  </p>
+                  <p>
+                     <hi>Hortenſia</hi> was equal to her, the Daughter of
+<hi>Quintus Hortenſius.</hi> When a greivous Fine was impoſed upon the
+Roman Matrons by the Tri<g ref="char:EOLhyphen"/>bunes, when all Lawyers and Oratours were afraid to
+take upon them the Patronage of their Cauſe, this diſcreet Lady pleaded
+before the Triumvirate in the behalf of the Women, ſo happily and boldly,
+that the greateſt Part of the Mulct impoſed upon them, was remitted.</p>
+                  <p>Some have commended <hi>Caia Affricana's</hi> Eloquence: I
+cannot ap<g ref="char:EOLhyphen"/>prove of the Uſe ſhe put it to, but paſs her over.</p>
+                  <p>
+                     <hi>Tullia</hi> (by the Inſtruction of her Mother
+<hi>Terentia</hi>) was counted e<g ref="char:EOLhyphen"/>qual to her Father <hi>Cicero</hi> in
+Eloquence.</p>
+                  <p>Divers of thoſe Perſons before mentioned were very
+eloquent, parti<g ref="char:EOLhyphen"/>cularly <hi>Maurata, Cornelia,</hi> and Queen
+<hi>Elizabeth.</hi> We may ſuppoſe <hi>Schurman,</hi> and the reſt that
+wrote ſo elegantly, could alſo ſpeak elo<g ref="char:EOLhyphen"/>quently upon a juſt
+occaſion.</p>
+                  <p>
+                     <pb n="13" facs="tcp:64990:7"/>It is objected againſt poor Women, they
+may learn Tongues and ſpeak freely, being naturally diſpoſed to be
+talkative: But for any ſolid Judgment or depth of Reaſon, it is ſeldom
+found in their giddy Crowns. I proceed therefore to ſhew they have been good
+<hi>Logicians, Philoſophers, Mathematicians, Divines,</hi> and
+<hi>Poets.</hi>
+                  </p>
+               </div>
+               <div type="question">
+                  <head>Women have underſtood Logick.</head>
+                  <p>
+                     <hi>Logick</hi> is the Key, thoſe that have this in their
+Heads may unlock o<g ref="char:EOLhyphen"/>ther Sciences; ſome Women have had it at their Girdles,
+and been ve<g ref="char:EOLhyphen"/>ry dextrous in Diſputation.</p>
+                  <p>
+                     <hi>Hipparchia</hi> with one <hi>Sophiſm</hi> put to Silence
+<hi>Theodorus.</hi> It was thus: That which <hi>Theodorus</hi> doing, he is not
+ſaid to do unjuſtly; if <hi>Hippar<g ref="char:EOLhyphen"/>chia</hi> do, ſhe is not ſaid to do
+unjuſtly. This he granted. She proceeds, But, <hi>Theodorus</hi> beating
+himſelf, is not ſaid to do unjuſtly; therefore if <hi>Hipparchia</hi>
+beat <hi>Theodorus,</hi> ſhe is not ſaid to do unjuſtly.
+<hi>Theodorus</hi> makes no Reply, but, juſt like our lazy Gentlemen, goes
+out of the Room and ſaith, <hi>Let Women mind their Spinning.</hi>
+                  </p>
+                  <p>
+                     <hi>Margarita Sorocchia,</hi> a Gentlewoman of <hi>Rome,</hi>
+is lookt upon as ſo great a Sopiſter, that ſhe is ordinarily a Moderatix
+in the Academy at the Diſputation amongſt learned Wits, in the moſt
+Polite Parts of Learning and Philoſophy, yea and Divinity too.</p>
+                  <p>Thoſe who read <hi>Schurman</hi>'s Decertations, will
+conclude ſhe un<g ref="char:EOLhyphen"/>derſtood the Principles and Practice of Logick very
+well.</p>
+                  <p>
+                     <hi>Caecilia</hi> did ſtrange things by her great Skill in
+Logick, particularly by ſolid Argument, ſhe diſwaded <hi>Tiburtius
+Valerianus</hi> his Brother, from heatheniſh Idolatry to the Chriſtian
+Faith.</p>
+                  <p>Some think I have hardly ſpoke to the Purpoſe yet; Logick
+diſpo<g ref="char:EOLhyphen"/>ſes to wrangle, a thing Women are inclined to naturally: I proceed
+therefore to ſhew that Women have been great Proficients in the moſt
+ſolid Parts of Learning, which require moſt ſerious Thoughts and
+greateſt Judgment; they have been good Philoſophers, good Arithmetici<g ref="char:EOLhyphen"/>ans,
+good Divines, and good Poets.</p>
+               </div>
+               <div type="question">
+                  <head>Women have been profound <hi>Philoſophers.</hi>
+                  </head>
+                  <p>That they have been good <hi>Philoſophers,</hi> appears from
+thoſe numerous examples before mentioned. I ſhould but tautologize to
+repeat them again. Take only their names; <hi>Roſuida, Elizabeth</hi> of
+<hi>Schonaugia, Con<g ref="char:EOLhyphen"/>ſtantia,</hi> her Daughter <hi>Baptiſta, Anna Maria
+Schurman, Margarita So<g ref="char:EOLhyphen"/>racchia,</hi>
+                     <pb n="14" facs="tcp:64990:8"/>&amp;c. All thoſe
+hereafter mentioned as eminent in Divinity, muſt needs have ſome competent
+skill in <hi>Philoſophy;</hi> as <hi>Tibiola, Marcella, Euſto<g ref="char:EOLhyphen"/>chium,</hi>
+&amp;c.</p>
+                  <p>
+                     <hi>Aganolda</hi> was ſo deſirous of knowledge, that ſhe
+put her ſelf into mans Apparel, attained ſo great a perfection in Natural
+<hi>Philoſophy,</hi> and in the practice of <hi>Phyſick,</hi> that ſhe
+was envied by all thoſe of her fa<g ref="char:EOLhyphen"/>culty, and ſlandered for incontinency; to
+vindicate her ſelf, ſhe diſcover<g ref="char:EOLhyphen"/>ed ſhe was a Woman.</p>
+                  <p>
+                     <hi>Miriam</hi> was a great <hi>Philoſopher,</hi> and ſo
+was the Queen of <hi>Sheba,</hi> or elſe ſhe would never have ventured to
+try the Wiſdom of <hi>Solomon</hi> in dark Problems, and by hard
+Queſtions.</p>
+                  <p>
+                     <hi>Nicoſtrata</hi> (by ſome called <hi>Carmentis</hi>)
+helped to make up the <hi>Greek</hi> Alphabet, and made ſome addition to the
+<hi>Roman</hi> Letters.</p>
+                  <p>
+                     <hi>Aſpaſia,</hi> a <hi>Mileſian</hi> Damſel, was ſo
+learned, that ſhe inſtructed <hi>Pericles,</hi> and of a great Souldier,
+made him an excellent <hi>Philoſopher,</hi> and one of the beſt Orators in
+<hi>Greece,</hi> and after was married to him.</p>
+                  <p>
+                     <hi>Socrates</hi> acknowledges he imitated
+<hi>Aſpaſia</hi> in his <hi>Facultas Politica,</hi> and doth not bluſh to
+call <hi>Diotima</hi> his Tutreſs. Theſe two Women were ſo learned, as to
+teach this great <hi>Philoſopher.</hi>
+                  </p>
+                  <p>
+                     <hi>Arete</hi> attained to that perfection in
+<hi>Philoſophy,</hi> that ſhe inſtructed her ſon <hi>Ariſtippus,</hi>
+who was therefore called <gap reason="foreign" resp="#OXF" extent="1 word">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,
+Mother<g ref="char:EOLhyphen"/>taught. After her Fathers death, ſhe erected a School of
+<hi>Philoſophy,</hi> where ſhe commonly read to a full and frequent
+Auditory.</p>
+                  <p>
+                     <hi>Leontinum,</hi> a <hi>Grecian</hi> Damſel, was ſo well
+ſeen in <hi>Philoſophical</hi> Con<g ref="char:EOLhyphen"/>templation, that ſhe feared not to
+write a Book againſt the worthy <hi>Theo<g ref="char:EOLhyphen"/>phraſtus.</hi>
+                  </p>
+                  <p>
+                     <hi>Dama,</hi> the Daughter of <hi>Pythagoras,</hi> and her
+Mother, were excellent <hi>Philoſophers.</hi>
+                  </p>
+                  <p>
+                     <hi>Pythagoras</hi> profeſſes he often adviſed with, and
+received help from <hi>Themiſtoclea.</hi>
+                  </p>
+                  <p>I ſhould be too troubleſom to you, if I ſhould ſpeak
+particularly of the Learning of <hi>Adeſia,</hi> the Wiſdom of
+<hi>Hermodica,</hi> the Improvement of <hi>Themiſte</hi> in
+<hi>Pythagorean</hi> Philoſophy, of the Works of <hi>Genebria,</hi> or how
+eloquent the two Daughters of L. <hi>Craſſus</hi> were.</p>
+                  <p>I had almoſt ſorgotten <hi>Chriſtina</hi> Queen of
+<hi>Sweden</hi> in Philology and Philoſophy, ſuperior to moſt of the
+great Scholars in Europe.</p>
+                  <p>
+                     <hi>Portia, Cato</hi>'s Daughter, was the beſt Philoſopher
+in her Time.</p>
+               </div>
+               <div type="question">
+                  <pb n="15" facs="tcp:64990:8"/>
+                  <head>Some Women have underſtood the
+<hi>Mathematicks.</hi>
+                  </head>
+                  <p>The <hi>Mathematicks</hi> require as much ſeriouſneſs as
+any Art or Sci<g ref="char:EOLhyphen"/>ence, yet ſome Women have attained an extraordinary knowledge
+in theſe alſo.</p>
+                  <p>
+                     <hi>Hyppatia</hi> of <hi>Alexandria,</hi> Daughter of
+<hi>Theon,</hi> writ of Aſtronomy; ſhe was Profeſſor in the School in
+<hi>Alexandria,</hi> where ſhe was frequen<g ref="char:EOLhyphen"/>ted by many worthy Scholars.
+Afterwards by ſuch as envied her Fame for Learning, ſhe was pitifully
+ſlain and maſſacred.</p>
+                  <p>A Lady of late, I have forgot her name, is ſo well skilled
+in the Ma<g ref="char:EOLhyphen"/>thematicks, that ſhe hath printed divers Tables.</p>
+                  <p>If any think all this Learning is but meerly humane, I
+acknowledge the great end of Arts and Tongues is the better to enable us to
+know God in Jeſus Chriſt, and our own ſelves, that we may glorifie and
+en<g ref="char:EOLhyphen"/>joy him for ever.</p>
+                  <q> 
+                     <l>Si Chriſtum diſeis, nil eſt ſi caetera ouſeis.</l>
+
+                     <l>Si Chriſtum neſeis, nil eſt ſi caetera
+diſcis.</l>
+                  </q>
+                  <p>Many Women have improved their humane Knowledge, ſo as by
+Gods Bleſſing hath been a means of their obtaining Spiritual Knowledg.</p>
+                  <p>
+                     <hi>Fabiola,</hi> a Roman Matron, had attained ſo great
+Perfection in the Knowledge of the Scriptures, that ſhe had a reverent
+Reſpect from the Learned in her Time. St. <hi>Jerome</hi> vouchſafed to
+dedicate a Book to her intituled <hi>de Veſta Sacerdotali.</hi>
+                  </p>
+                  <p>
+                     <hi>Marcella,</hi> a Roman, was ſo eminent in the Knowledge
+of Divinity, that St. <hi>Jerome</hi> ſalutes her by Name in many of his
+Epiſtles. He writ diverſe Books to her. One <hi>de Mundi contemptu;</hi>
+another of the ten Names God is called by amongſt the Hebrews; a Third of
+Faith; a Fourth of Blaſphemy againſt the Holy Ghoſt; And diverſe
+others.</p>
+                  <p>
+                     <hi>Euſtochium,</hi> the Daughter of <hi>Paula,</hi> a Roman
+Matron, was ſo ex<g ref="char:EOLhyphen"/>cellent a Divine, and ſo well practiſed in the
+<hi>Scriptures,</hi> and in the <hi>Greek, Latin,</hi> and <hi>Hebrew</hi>
+Dialects, that ſhe was called the new Prodo<g ref="char:EOLhyphen"/>gy of the World.</p>
+                  <p>We may reflect upon diverſe of thoſe before mentioned to
+ſupply the Defect of Examples in this Place. Queen <hi>Elizabeth,</hi> and
+the La<g ref="char:EOLhyphen"/>dy <hi>Jane Grey</hi> were eminent for their Knowledge in Religion.</p>
+                  <p>
+                     <hi>Roſuida, Elizabeth</hi> of <hi>Schonaugia,
+Conſtantia</hi> the Wife of <hi>Alexander Sforza,</hi> and her Daughter
+<hi>Baptiſta,</hi> were excellent in Divinity as well as Philoſophy.</p>
+                  <p>
+                     <pb n="16" facs="tcp:64990:9"/>The Works of <hi>Anna Maria Schurman,</hi>
+that are extant, declare how good a Divine ſhe was.</p>
+                  <p>I ſhall conclude with <hi>Iſola Navarula,</hi> who writ
+many eloquent Epi<g ref="char:EOLhyphen"/>ſtles. She was a great proficient in Philoſophy and
+Theology, as ap<g ref="char:EOLhyphen"/>pears by that Book ſhe wrote by way of Dialogue, between
+<hi>Adam</hi> and <hi>Eve,</hi> which ſinned firſt and moſt; and by
+divers other Books.</p>
+                  <p>There is one thing yet remaining, in which Women have
+excelled, that is, <hi>Poetry.</hi> Their excellency in this, tends as much to
+their vindi<g ref="char:EOLhyphen"/>cation as any thing yet ſpoken to. To be a <hi>Poetaſter,</hi>
+is no great matter; but to be a <hi>Poet-laureat,</hi> requires great natural
+endowments, ſuch as man cannot lend, if God doth not give; <hi>Poeta
+naſcitur, non fit.</hi> If a man's natural parts be low, Induſtry,
+Education, Time, and Practice, may raiſe to ſome competent height in
+Oratory; therefore we ſay, <hi>Ora<g ref="char:EOLhyphen"/>tor fit:</hi> But all the Inſtruction
+and Education in the World, all the pains, time, and patience imaginable, can
+never infuſe that ſublime Fancy, that ſtrong Memory, and excellent
+Judgment required in one that ſhall wear the Bayes. If Women have been good
+Poets, Men in<g ref="char:EOLhyphen"/>jure them exceedingly, to account them giddy-headed Goſſips,
+fit only to diſcourſe of their Hens, Ducks, and Geeſe, and not by any
+means to be ſuffered to meddle with Arts and Tongues, leſt by intollerable
+pride they ſhould run mad.</p>
+                  <p>If I do make this appear, that Women have been good Poets, it
+will confirm all I have ſaid before: for, beſides natural Endowments, there
+is required a general and univerſal improvement in all kinds of Learning. A
+good Poet, muſt know things Divine, things Natural, things Moral, things
+Hiſtorical, and things Artificial; together with the ſeveral terms
+belonging to all Faculties, to which they muſt allude. Good Poets muſt be
+univerſal Scholars, able to uſe a pleaſing Phraſe, and to expreſs
+them<g ref="char:EOLhyphen"/>ſelves with moving Eloquence.</p>
+               </div>
+               <div type="question">
+                  <head>Women have been good Poets.</head>
+                  <p>Becauſe ſo much depends upon this, I beg the Mens
+patience, if I be a little tedious on this Point. I queſtion not the Women
+will be con<g ref="char:EOLhyphen"/>tented to hear their Sex vindicated.</p>
+                  <p>I begin with <hi>Minerva,</hi> the Goddeſs of Wiſdom;
+ſhe was for no other reaſon reckoned amongſt the Goddeſſes, but for
+her excellency and cun<g ref="char:EOLhyphen"/>ning in Poetry and other good Arts, of which ſhe is
+ſaid to be the firſt Inventreſs.</p>
+                  <p>
+                     <pb n="17" facs="tcp:64990:9"/>There were three <hi>Corinna</hi>'s, famous
+for Poetry. One lived in the time of <hi>Auguſtus,</hi> and was very dear to
+<hi>Ovid.</hi> A ſecond was called <hi>Co<g ref="char:EOLhyphen"/>rinna Theſpia,</hi> ſhe is
+celebrated in the Books of the Antient Poets, eſpe<g ref="char:EOLhyphen"/>cially <hi>Statius.</hi>
+The third, and moſt eminent, was <hi>Corinna Thebana;</hi> ſhe was Daughter
+of <hi>Archelodorus</hi> and <hi>Procratia,</hi> and Scholar to
+<hi>Myrtis.</hi> In five ſet Conteſts ſhe bore away the Palm from
+<hi>Pindar,</hi> Prince of the Lyrick Poets. She publiſhed five Books of
+Excellent Epigrams.</p>
+                  <p>
+                     <hi>Erinna,</hi> Sir-named <hi>Teia,</hi> or (as ſome will
+have it) <hi>Telia,</hi> from the Iſland <hi>Telos,</hi> not far diſtant
+from <hi>Gnidon;</hi> ſhe flouriſhed in the time of <hi>Dion</hi> of
+<hi>Syracuſa,</hi> and publiſhed an excellent Poem in the <hi>Dorick</hi>
+Tongue, beſides divers Epigrams. Her Stile was ſaid to come near the
+Majeſty of <hi>Homer</hi>'s. She died when ſhe was but nineteen years of
+Age.</p>
+                  <p>
+                     <hi>Sappho,</hi> the Daughter of <hi>Scamandaurus,</hi> lived
+in the time of <hi>Tarqui<g ref="char:EOLhyphen"/>nius Priſcus;</hi> ſhe firſt deviſed the
+<hi>Sapphick</hi> Verſe, and found out the uſe of the Harp with a Quill.
+There was alſo another <hi>Sappho</hi> called <hi>Mitele<g ref="char:EOLhyphen"/>na,</hi> who lived
+long after. She publiſhed many rare and famous Poems amongſt the
+<hi>Greeks;</hi> and therefore had the honour to be called the <hi>tenth
+Muſe.</hi>
+                  </p>
+                  <p>
+                     <hi>Proba Valeria Falcona,</hi> a Roman Matron, lived in the
+time of <hi>Hono<g ref="char:EOLhyphen"/>rius</hi> and <hi>Theodoſius junior.</hi> She compoſed a
+Divine Poem of the Life, Works, and Miracles of Chriſt. She alſo
+Paraphraſed upon the Verſes of <hi>Homer,</hi> and called the Work
+<hi>Homeroucheutra.</hi> Her Husband being dead, ſhe inſcribed upon his
+Tomb an Epitaph, Engliſhed thus: 
+<q> 
+                        <l>To God, to Prince, Wife, Kindred, Friends, the Poor;</l> 
+                        <l>Religious, Loyal, True, Kind, Stedfaſt, Dear,</l> 
+                        <l>In Zeal, Faith, Love, Help, Amity, and Store;</l> 
+                        <l>He, that ſo liv'd, and ſo deceas'd, lies
+here.</l>
+                     </q>
+                  </p>
+                  <p>I had almoſt forgot the <hi>Sybils:</hi> The Name
+ſignifies ſuch as have thoughts of God. As a Man that propheſieth is
+called a Prophet, ſo a Woman predicting, was called a <hi>Sybil.</hi> There
+were twelve of theſe, all of them Poets. <hi>Sybilla Lybica</hi> invented the
+<hi>Heroick</hi> Verſe. <hi>Sybilla Delphica</hi> was ſo famous a Poet,
+that <hi>Homer</hi> did take many of her Verſes to himſelf, and made them
+his own. All of them delivered their Oracles in Verſe: If their Verſes were
+not ſo ſmooth as <hi>Homers</hi> and <hi>Heſiods,</hi> an abatement
+muſt be made for the matter and manner of their ſpeaking, which was
+uſually in an extaſie. They all propheſied of Chriſt. I ſhall
+inſert only one or two of their Predictions, thus Engliſhed. 
+<pb n="18" facs="tcp:64990:10"/> 
+                     <q> 
+                        <l>A King, a Prieſt, a Prophet, all theſe three</l> 
+                        <l>Shall meet in one; Sacred Divinity</l> 
+                        <l>Shall be to Fleſh eſpous'd. O, who can ſcan</l> 
+                        <l>This Myſtery, uniting God with Man!</l> 
+                        <l>When this rare Birth into the World ſhall come,</l> 
+                        <l>He the great God of Oracles ſtrikes dumb.</l>
+                     </q>
+                  </p>
+                  <p>
+                     <hi>Sybilla Delphica</hi> ſpeaks to this purpoſe. 
+<q> 
+                        <lg>
+                           <l>An Angel ſhall deſcend, and ſay,</l>
+                           <l>Thou bleſſed <hi>Mary</hi> hail;</l>
+                           <l>Thou ſhalt conceive, bring forth, yet be</l>
+                           <l>A Virgin without fail.</l>
+                        </lg> 
+                        <lg>
+                           <l>Three Gifts the <hi>Chald'ans</hi> to thy Son</l>
+                           <l>Shall tender with much pietie,</l>
+                           <l>Myrrhe to a Man, Gold to a King,</l>
+                           <l>And Incenſe to a Deitie.</l>
+                        </lg>
+                     </q>
+                  </p>
+                  <p>I ſhall mention only one more, which is that of <hi>Sybilla
+Europa.</hi> 
+                     <q> 
+                        <lg>
+                           <l>When the great King of all the World ſhall have</l>
+                           <l>No place on Earth by which he may be known;</l>
+                           <l>When he that comes, all mortal men to ſave,</l>
+                           <l>Shall find his own Life by the World o'rethrown.</l>
+                           <l>When the moſt Juſt, injuſtice ſhall deprave,</l>
+                           <l>And the great Judge be judged by his own.</l>
+                        </lg> 
+                        <lg>
+                           <l>Death when to Death, a Death by Death hath given,</l>
+                           <l>Then ſhall be op't the long-ſhut Gates of
+Heaven.</l>
+                        </lg>
+                     </q>
+                  </p>
+                  <p>I do not produce theſe as Foundations of our Faith; We have
+a more ſure word of Propheſie which we ought to look unto, as a Light that
+ſhineth in a dark place. This is more ſure than that which we ſee with
+our Eyes, hear with our Ears, or handle with our Hands.</p>
+                  <p>
+                     <pb n="19" facs="tcp:64990:10"/>
+                     <hi>Cleobulina</hi> was Daughter of
+<hi>Cleobulus Lindus,</hi> one of the ſeven Wiſe Men of <hi>Greece.</hi>
+She imitated, and ſome think did equalize her Father. She was eminent for
+<hi>Enigma</hi>'s and <hi>Riddles.</hi> Take this one rendred thus: 
+<q> 
+                        <l>One Father hath twelve Children great and ſmall,</l> 
+                        <l>And they beget twice fifteen, Daughters all;</l> 
+                        <l>Half of them White, half Black, immortal made;</l> 
+                        <l>And yet we ſee how every hour they fade.</l>
+                     </q>
+                  </p>
+                  <p>I cannot leave out <hi>Helpis,</hi> the Wife of the Famous
+Philoſopher and Poet <hi>Boethius Severinus;</hi> becauſe many Hymns to the
+Apoſtles are yet extant, which <hi>Gyraldus</hi> and the beſt Writers
+conſtantly affirm to be hers. She writ her Epitaph with her own hand,
+tranſlated thus; 
+<q> 
+                        <l>
+                           <hi>Helpis</hi> my Name, me <hi>Sicily</hi> firſt
+bred;</l> 
+                        <l>A Husband's love drew me from hence to <hi>Rome,</hi>
+                        </l> 
+                        <l>Where I long liv'd in joy, but now lie dead,</l> 
+                        <l>My Soul ſubmitting to th' Almighties doom.</l> 
+                        <l>And I believe this fleſh again ſhall riſe,</l> 
+                        <l>And I behold my Saviour with theſe eyes.</l>
+                     </q>
+                  </p>
+                  <p>I may put <hi>Philenis</hi> and <hi>Aſteniſſa</hi>
+together; they were both good Po<g ref="char:EOLhyphen"/>ets, and imitated one another.</p>
+                  <p>
+                     <hi>Hildegardis Moguntina</hi> was eminent for Learning and
+Piety as well as Poetry: Her Works were approved in the Council held at
+<hi>Tryers,</hi> where Dr. <hi>Bernard</hi> was preſent.</p>
+                  <p>
+                     <hi>Ariſtophanes</hi> ſpeaks much of <hi>Clitagora
+Lacedemonia,</hi> and <hi>Serabo</hi> in his <hi>Homerica</hi> ſpeaks more of
+<hi>Heſtia Alexandria.</hi>
+                  </p>
+                  <p>
+                     <hi>Antipater Theſſalus,</hi> gives the firſt place
+amongſt the nine <hi>Lyric</hi> Poets, to <hi>Paxilla Syconia.</hi> She lived
+in the thirty ſecond <hi>Olympiad.</hi>
+                  </p>
+                  <p>I ſhould be too tedious, if I ſhould give you a particular
+account what <hi>Seneca</hi> ſpeaks of <hi>Michaele;</hi> what
+<hi>Ariſtophanes</hi> of <hi>Gharixena;</hi> what <hi>Ce<g ref="char:EOLhyphen"/>lius</hi> ſpeaks
+of <hi>Muſea;</hi> or, what <hi>Textor</hi> remembers of <hi>Meroe.</hi>
+                  </p>
+                  <p>
+                     <hi>Cornificina, Luccia Mima, Caſſandra,
+Magaloſtrate,</hi> were good Po<g ref="char:EOLhyphen"/>ets. <hi>Polla Argentaria,</hi> Wife to the
+famous Poet <hi>Lucan,</hi> was reputed of that excellent Learning, that ſhe
+aſſiſted her Husband in the three firſt Books, entituled
+<hi>Pharſalia.</hi>
+                  </p>
+                  <p>I can but name thoſe Poets <hi>Anyle, Noſiis, Myro
+Byzantia, Damophila;</hi> becauſe I haſten to thoſe nearer our own times:
+Only take notice, theſe<pb n="20" facs="tcp:64990:11"/>numerous Examples of Learned
+Women, do plainly prove, they were heretofore liberally educated.</p>
+                  <p>
+                     <hi>Lorentia Stoza</hi> is now famous in <hi>Italy</hi> for
+divers Hymns ſhe compoſed in divers kinds of Verſe, eſpecially in
+excellent <hi>Sapphicks.</hi>
+                  </p>
+                  <p>How excellent a Poet Mrs. <hi>Broadſtreet</hi> is, (now in
+<hi>America</hi>) her Works do teſtifie.</p>
+                  <p>We need no other Encomium of Mris. <hi>Philips,</hi> than what
+Mr. <hi>Cowley</hi> gives, he plucks the Lawrel from his own Brow, to crown
+hers, as beſt deſerving it. Beſides, her Works in print ſpeak for
+her.</p>
+                  <p>Sir <hi>John Harington</hi> in his Allegory upon the 37 Books
+of <hi>Arioſta,</hi> com<g ref="char:EOLhyphen"/>mends unto us the four Daughters of Sir <hi>Anthony
+Cook;</hi> alſo the Lady <hi>Ruſſel,</hi> the Lady <hi>Bacon,</hi> the
+Lady <hi>Killegrew,</hi> giving to each of them, for Poetry, a worthy
+Character; whither I refer the Reader.</p>
+                  <p>In the ſame place the Author commends to us, a great
+<hi>Italian</hi> Lady, <hi>Vittoria,</hi> who writ largely and learnedly in the
+praiſe of her dead Huſ<g ref="char:EOLhyphen"/>band. With whom I may rank (if in the compariſon I
+do not under<g ref="char:EOLhyphen"/>prize) the beautiful and learned Lady <hi>Mary,</hi> Counteſs of
+<hi>Pembrook,</hi> the worthy Siſter to that incomparable Perſon Sir
+<hi>Philip Sidney.</hi>
+                  </p>
+                  <p>The Lady <hi>Jane Gray,</hi> and the Lady <hi>Arabella,</hi>
+had a great faculty in Poetry.</p>
+                  <p>The two Orations delivered at the Univerſities by Queen
+<hi>Elizabeth's</hi> own Mouth, gives ample teſtimony of her Oratory. Thoſe
+ingeni<g ref="char:EOLhyphen"/>ous Fancies, and pleaſant Poems, bearing her Name, ſhews ſhe was a
+good Poet.</p>
+                  <p>The Lord <hi>Burghlies</hi> three Daughters were eminent for
+Learning, and competent Poets; as appears by theſe Verſes made upon this
+occaſion. <hi>Sileſia</hi> was in <hi>Cornwal,</hi> her Husband was
+deſigned to be ſent Embaſſa<g ref="char:EOLhyphen"/>dor; <hi>Mildreda</hi> her Siſter was at
+Court, who had intereſt there to hinder this intended Embaſſie of her
+Brother; <hi>Sileſia</hi> writes to her Siſter <hi>Mildreda:</hi> 
+                     <q> 
+                        <l>Si mihi, quem cupio Dominum, <hi>Mildreda,</hi>
+remittas,</l> 
+                        <l>Tu bona, tu melior, tu mihi ſola Soror.</l> 
+                        <l>Sin malè cunctando retines, vel trans Mare
+mittas,</l> 
+                        <l>Tu mala, tu pejor, tu mihi nulla Soror.</l> 
+                        <l>At ſi <hi>Cornubiam,</hi> tibi pax ſit, &amp; omnia
+laeta,</l> 
+                        <l>Sin Mare, <hi>Sileſiae</hi> nuntio bella. Vale.</l> 
+                     </q>
+
+                     <q> 
+                        <l>
+                           <hi>Mildred,</hi> my Husband dear, if you now back do
+ſend,</l> 
+                        <l>Better than good you are, and Siſter to the end.</l> 
+                        <l>
+                           <pb n="21" facs="tcp:64990:11"/>But if you him ſtay there, or ſend
+him o're the Sea,</l> 
+                        <l>Much worſe than nought you are, no Siſter you ſhall
+be.</l> 
+                        <l>If <hi>Cornwal</hi> he does ſee, I'le pray, and all good
+tell;</l> 
+                        <l>But if he croſs the Sea, I am your foe.
+Farewel.</l>
+                     </q>
+                     <bibl> Sileſia.</bibl>
+                  </p>
+               </div>
+               <div type="conclusion">
+                  <p>It may now be demanded, by thoſe ſtudious of Antiquity,
+why the Vertues, the Diſciplines, the Nine Muſes, the Deviſers, and
+Patrons of all good Arts, the Three Graces; ſhould rather be repreſented
+under the Feminine Sex, and their Pictures be drawn to the Portraictures of
+Damoſels, and not have Maſculine Denominations, and the Effigies of Men?
+Yea, why Chriſtians themſelves, in all their Books and Writ<g ref="char:EOLhyphen"/>ings which they
+commit to Poſterity, ſtill continue the ſame practice? Why Wiſdom is
+ſaid to be the Daughter of the Higheſt, and not the Son? Why <hi>Faith,
+Hope,</hi> and <hi>Charity,</hi> her Daughters, are repreſented as Women? Why
+ſhould the ſeven Liberal Arts be expreſſed in Wo<g ref="char:EOLhyphen"/>mens Shapes?
+Doubtleſs this is one reaſon; Women were the Inventors of many of theſe
+Arts, and the promoters of them, and ſince have ſtu<g ref="char:EOLhyphen"/>dyed them, and attained
+to an excellency in them: And being thus a<g ref="char:EOLhyphen"/>dorned and beautified with theſe
+Arts, as a teſtimony of our gratitude for their Invention, and as a token of
+honour for their Proficiency; we make Women the emblems of theſe things,
+having no ſitter Hierogly<g ref="char:EOLhyphen"/>phick to expreſs them by. I ſhall add this one
+thing, worthy obſerva<g ref="char:EOLhyphen"/>tion, to the great honour and commendation of the
+Feminine Sex.</p>
+                  <p>The parts of the World have their denomination from Women,
+<hi>Aſia</hi> is ſo called from the Nymph <hi>Aſia,</hi> the Mother of
+<hi>Japethus</hi> and <hi>Prome<g ref="char:EOLhyphen"/>theus. Europe,</hi> from <hi>Europa</hi> the
+Daughter of <hi>Agenor. Lybia</hi> (which is <hi>Africa</hi>) from
+<hi>Libia</hi> the Daughter of <hi>Epaphus. America</hi> (lately diſ<g ref="char:EOLhyphen"/>covered)
+bears the ſame Female Figure.</p>
+                  <p>It is uſual for men to pride and boaſt themſelves in the
+Wiſdom, Va<g ref="char:EOLhyphen"/>lour, and Riches of their Anceſtors; what wiſe Men their
+Fore-fathers have been, what great things they have done, and what large
+poſſeſſions they have had, when they themſelves are degenerated and
+become Igno<g ref="char:EOLhyphen"/>rant, Cowardly, beggarly, debauched Sots.</p>
+                  <p>I hope Women will make another uſe of what I have ſaid;
+inſtead of claiming honour from what Women have formerly been, they will
+labour to imitate them in learning thoſe Arts their Sex hath invented, in
+ſtudying thoſe Tongues they have underſtood, and in practiſing thoſe
+Virtues ſhadowed under their Shapes; the knowledge of Arts<pb n="22" facs="tcp:64990:12"/>and Tongues, the exerciſe of Virtue and Piety, will certainly (let
+men ſay what they will) make them honourable.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>Care ought to be taken by us to Educate Women in
+Learning.</head>
+               <p>THat I may be more diſtinct in what I intend, I ſhall
+diſtinguiſh of Women,</p>
+               <p>Women are of two ſorts, 
+<list>
+                     <item>RICH, Of good natural Parts.</item>
+                     <item>POOR, Of low Parts.</item>
+                  </list>
+               </p>
+               <p> I do not mean, that it is neceſſary to the
+<hi>eſſe,</hi> to the <hi>ſubſiſtence,</hi> or to the Salvation of
+Women, to be thus educated. Thoſe that are mean in the World, have not an
+opportunity for this Education: Thoſe that are of low Parts, though they have
+opportunity, cannot reach this; <hi>Ex quovis ligno non ſit Minerva:</hi> My
+meaning is, Perſons that God hath bleſſed with the things of this World,
+that have competent natural Parts, ought to be educated in Knowledge; That is,
+it is much better they ſhould ſpend the time of their Youth, to be
+competently inſtructed in thoſe things uſually taught to Gentlewoman at
+Schools, and the overplus of their time to be ſpent in gaining Arts, and
+Tongues, and uſeful Knowledge, rather than to trifle away ſo many precious
+minutes meerly to poliſh their Hands and Feet, to curl their Locks, to
+dreſs and trim their Bodies; and in the mean time to neglect their Souls, and
+not at all, or very little to endeavour to know God, Jeſus Chriſt,
+Themſelves, and the things of Nature, Arts and Tongues, ſubſervient to
+theſe. I do not deny but Women ought to be brought up to a comely and decent
+carriage, to their Needle, to Neatneſs, to underſtand all thoſe things
+that do particularly belong to their Sex. But when theſe things are
+competently cared for, and where there are Endowments of Nature and leaſure,
+then higher things ought to be endeavoured after. Meerly to teach Gentlewomen
+to Frisk and Dance, to paint their Faces, to curl their Hair, to put on a
+Whisk, to wear gay Clothes, is not truly to a<g ref="char:EOLhyphen"/>dorn, but to adulterate their
+Bodies; yea, (what is worſe) to defile their Souls. This (like
+<hi>Circes</hi> Cup) turns them to Beaſts; whilſt their Belly is their
+Godd, they become Swine; whilſt Luſt, they become Goats; and whilſt Pride
+is their God, they become very Devils. Doubt<g ref="char:EOLhyphen"/>leſs this under-breeding of
+Women began amongſt Heathen and Barba<g ref="char:EOLhyphen"/>rous People; it continues with the
+<hi>Indians,</hi> where they make their Wo<g ref="char:EOLhyphen"/>men<pb n="23" facs="tcp:64990:12"/>meer
+ſlaves, and wear them out in drudgery. It is practiſed amongſt degenerate
+and Apoſtate Chriſtians, upon the ſame ſcore, and now is a part of
+their Religion; it would therefore be a piece of Refor<g ref="char:EOLhyphen"/>mation to correct it;
+and it would notably countermine them who fight againſt us, as Satan
+againſt <hi>Adam,</hi> by ſeducing our Women, who then eaſily ſeduce
+their Husbands.</p>
+               <p>Had God intended Women onely as a finer ſort of Cattle, he
+would not have made them reaſonable. Bruits, a few degrees higher than Drils
+or Monkies, (which the <hi>Indians</hi> uſe to do many Offices) might have
+better fitted ſome mens Luſt, Pride, and Pleaſure; eſpecially thoſe
+that deſire to keep them ignorant to be tyrannized over.</p>
+               <p>God intended Woman as a help-meet to Man, in his conſtant
+conver<g ref="char:EOLhyphen"/>ſation, and in the concerns of his Family and Eſtate, when he
+ſhould moſt need, in ſickneſs, weakneſs, abſence, death,
+<hi>&amp;c.</hi> Whilſt we neglect to fit them for theſe things, we
+renounce God's Bleſſing, he hath appointed Women for, are ungrateful to
+him, cruel to them, and in<g ref="char:EOLhyphen"/>jurious to our ſelves.</p>
+               <p>I remember a diſcourſe in <hi>Eraſmus,</hi> between an
+Abbot and a learned Woman. She gives many good Reaſons why Women ſhould be
+learn<g ref="char:EOLhyphen"/>ed, that they might know God, their Saviour, underſtand his Sacred
+Word, and admire him in his wonderful Works; that they might alſo better
+adminiſter their Houſhold Affairs amongſt a multitude of Ser<g ref="char:EOLhyphen"/>vants, who
+would have more reverence towards them, becauſe they were above them in
+underſtanding. Further, ſhe found a great con<g ref="char:EOLhyphen"/>tent in reading good Authors
+at ſpare times. He gives her one Anſwer to all this, <hi>That Women would
+never be kept in ſubjection if they were learned;</hi> as he found by
+experience amongſt his Monks, of all things in the World, he hated nothing
+ſo much as a learned Monk, who would alwayes be contradicting his Superior,
+from the Decretals out of <hi>Peter</hi> and <hi>Paul.</hi> He cared not if all
+his Monks were turned into Swine, ſo long as they would be obedient, and not
+diſturb him in his Pleaſures. Doubtleſs if that generation of Sots (who
+deny more Polite Learning to Women) would ſpeak out, they would tell you, If
+Women ſhould be permitted Arts, they would be wiſer than themſelves (a
+thing not to be endured) then they would never be ſuch tame fools and very
+ſlaves as now they make them; therefore it is a wicked miſchievous thing to
+revive the Ancient Cuſtom of Educating them.</p>
+               <p>Seeing Nature produces Women of ſuch excellent Parts, that
+they do often equalize, ſome-times excel men, in what ever they attempt; what
+reaſon can be given why they ſhould not be improved?</p>
+               <p>
+                  <pb n="24" facs="tcp:64990:13"/>Nothing is more excellent than Man; his
+excellency doth not con<g ref="char:EOLhyphen"/>ſiſt in his ſmooth Skin, or erect Countenance,
+but in his Reaſonable Soul; and the excellency of Reaſon is, when it is
+improved by Art.</p>
+               <p>Learning perfects and adorns the Soul, which all Creatures aim
+at. Nay more, a principal part of God's Image in Man's firſt Creation,
+con<g ref="char:EOLhyphen"/>ſiſted in Knowledge. Sin hath clouded this: why ſhould we not by
+in<g ref="char:EOLhyphen"/>ſtruction endeavour to repair that which ſhall be perfected in
+Heaven?</p>
+               <p>None deny the underſtanding of the higheſt things belong to
+Wo<g ref="char:EOLhyphen"/>men; as, The knowledge of God, Meditation of his Word, Contempla<g ref="char:EOLhyphen"/>tion of his
+Works; and they have been all along eminently employed in the great
+Tranſactions of the Church: In the Old-Teſtament, <hi>Miriam, Debora, Jael,
+Judith, Eſther.</hi> In the New-Teſtament, the Bleſſed Vir<g ref="char:EOLhyphen"/>gin,
+<hi>Anna, Phebe, Priſcilla, Lois, Eunice,</hi> the Elect Lady,
+<hi>&amp;c.</hi> were all uſeful and ſerviceable to the Church. Who then
+will forbid them the ſtudying of Arts, Tongues, Hiſtory, Philoſophy,
+<hi>&amp;c.</hi> ſubſervient to theſe? None can reverence the Majeſty
+of God, nor admire his won<g ref="char:EOLhyphen"/>derful Works, unleſs they in ſome meaſure know
+him and them.</p>
+               <p>This Nation was delivered from the <hi>Danes,</hi> by the
+Valour, Secreſie, and Fidelity of the Women; and from worſe, than
+<hi>Daniſh</hi> ſlavery by the means of a Woman.</p>
+               <p>If any deſire diſtinctly to know what they ſhould be
+inſtructed in?</p>
+               <p>I Anſwer, I cannot tell where to begin to admit Women, nor
+from what part of Learning to exclude them, in regard of their Capacities. The
+whole <hi>Encyclopedeia</hi> of Learning may be uſeful ſome way or other to
+them. Reſpect indeed is to be had to the Nature and Dignity of each Art and
+Science, as they are more or leſs ſubſervient to Religion, and may be
+uſeful to them in their ſtation. I would not deny them the knowledge of
+Grammar and Rhetorick, becauſe they diſpoſe to ſpeak handſomly.
+Logick muſt be allowed, becauſe it is the Key to all Sci<g ref="char:EOLhyphen"/>ences. Phyſick,
+eſpecially Viſibles, as Herbs, Plants, Shrubs, Drugs, <hi>&amp;c.</hi>
+muſt be ſtudyed, becauſe this will exceedingly pleaſe themſelves, and
+fit them to be helpful to others. The Tongues ought to be ſtudyed,
+eſpecially the <hi>Greek</hi> and <hi>Hebrew,</hi> theſe will enable to the
+better under<g ref="char:EOLhyphen"/>ſtanding of the Scriptures.</p>
+               <p>The Mathematicks, more eſpecially Geography, will be uſeful;
+this puts life into Hiſtory. Muſick, Painting, Poetry, <hi>&amp;c.</hi> are
+a great or<g ref="char:EOLhyphen"/>nament and pleaſure. Some things that are more practical, are not
+ſo material, becauſe publick Employments in the Field and Courts, are
+u<g ref="char:EOLhyphen"/>ſually denyed to Women: Yet ſome have not been inferior to many men even
+in theſe things alſo. Witneſs <hi>Semiramis</hi> amongſt the
+<hi>Babylonians;</hi>
+                  <pb n="25" facs="tcp:64990:13"/>The Queen of <hi>Sheba</hi> in
+<hi>Arabia; Miriam</hi> and <hi>Debora</hi> among the <hi>Iſrac<g ref="char:EOLhyphen"/>lites;
+Katherine de Medices</hi> in <hi>France;</hi> Queen <hi>Eliſabeth</hi> in
+<hi>England.</hi>
+               </p>
+               <p>
+                  <hi>Valerius Maximus</hi> tells us of divers Women that have,
+with good ſucceſs and great applauſe, pleaded their own Cauſes, as
+<hi>Ameſia Sent<g ref="char:EOLhyphen"/>nia;</hi> and <hi>Hortenſia</hi> the Daughter of <hi>Q.
+Hortenſius.</hi>
+               </p>
+               <p>
+                  <hi>Amaleſuentha,</hi> Queen of the Gothick Empire in
+<hi>Italy,</hi> contempora<g ref="char:EOLhyphen"/>ry with <hi>Juſtinian,</hi> was exceedingly valued
+by him; as appears by his Epiſtles recorded by <hi>Caſſiadorus.</hi>
+               </p>
+               <p>
+                  <hi>Zenobia</hi> made the Countrey famous by her Learning and
+Prudence.</p>
+               <p>In theſe late Times there are ſeveral inſtances of Women,
+when their Husbands were ſerving their King and Countrey, defended their
+Houſes, and did all things, as Souldiers, with Prudence and Valour, like
+Men.</p>
+               <p>They appeared before Committees, and pleaded their own Cauſes
+with good ſucceſs.</p>
+               <p>This kind of Education will be very uſeful to Women.</p>
+               <p n="1">1. The profit will be to themſelves. In the general they
+will be able to underſtand, read, write, and ſpeak their Mother-Tongue,
+which they cannot well do without this. They will have ſomething to
+exer<g ref="char:EOLhyphen"/>ciſe their thoughts about, which are buſie and active. Their quality
+ties them at home; if Learning be their Companion, Delight and Plea<g ref="char:EOLhyphen"/>ſure will
+be their Attendants: for there is no pleaſure greater, nor more ſutable to
+an ingenious mind, than what is founded in Knowledge; it is the firſt Fruits
+of Heaven, and a glymps of that Glory we afterwards expect. There is in all an
+innate deſire of knowing, and the ſatisfying this is the greateſt
+pleaſure. Men are very cruel that give them leave to look at a diſtance,
+only to know they do not know; to make any thus to tantalize, is a great
+torment.</p>
+               <p>This will be a Hedge againſt Hereſies. Men are furniſhed
+with Arts and Tongues for this purpoſe, that they may ſtop the mouths of
+their Adverſaries. And Women ought to be Learned, that they may ſtop their
+ears againſt Seducers. It cannot be imagined ſo many Perſons of Quality
+would be ſo eaſily carried aſide with every wind of Doctrine, had they
+been furniſhed with theſe defenſive Arms; I mean, had they been
+inſtructed in the plain rules of artificial reaſoning, ſo as to
+diſtin<g ref="char:EOLhyphen"/>guiſh a true and forcible Argument, from a vain and captious
+Fallacy. Had they been furniſhed with Examples of the moſt frequent
+illuſions of erronious Seducers. <hi>Hereſiarks</hi> creep into Houſes,
+and lead ſilly Women captive, then they lead their Husbands, both their
+Children; as the Devil did <hi>Eve,</hi> ſhe her Husband, they their
+Poſterity.</p>
+               <p>
+                  <pb n="26" facs="tcp:64990:14"/>It is none of the leaſt conſiderations,
+that a Woman thus educated, who modeſtly uſes her Learning, is, in
+deſpight of envy, honoured by moſt, eſpecially wiſe and good men;
+ſuch a one is admired and even adored by the vulgar and illiterate.</p>
+               <p>More particularly, perſons of higher quality, for want of this
+Edu<g ref="char:EOLhyphen"/>cation, have nothing to imploy themſelves in, but are forced to Cards,
+Dice, Playes, and frothy Romances, meerly to drive away the time; whereas
+knowledge in Arts and Tongues would pleaſantly imploy them, and upon
+occaſion benefit others.</p>
+               <p>
+                  <hi>Seneca</hi> endeavouring to comfort his Mother
+<hi>Helvigia</hi> in her Affliction, when he was under Baniſhment,
+ſuggeſts to her, that ſhe had been li<g ref="char:EOLhyphen"/>berally brought up, and might now
+have an opportunity to be farther improved, and might comfort her ſelf in the
+ſtudy of Philoſophy.</p>
+               <p>We cannot be ſo ſtupid as to imagine, that God gives Ladies
+great Eſtates, meerly that they may Eat, Drink, Sleep, and riſe up to Play.
+Doubtleſs they ought not to live thus. God, that will take an account for
+every idle thought, will certainly reckon with thoſe Perſons that ſhall
+ſpend their whole lives in idle play and chat. Poor Women will make but a
+lame excuſe at the laſt day for their vain lives; it will be ſome<g ref="char:EOLhyphen"/>thing
+to ſay, that they were educated no better. But what Anſwer Men will make,
+that do induſtriouſly deny them better improvement, leſt they ſhould be
+wiſer than themſelves, I cannot imagine.</p>
+               <p>More particularly, Women are 
+<list>
+                     <item>
+                        <g ref="char:V">Ʋ</g>nmarried.</item>
+                     <item>Married.</item>
+                     <item>Widows.</item>
+                  </list>
+               </p>
+               <p>As for Unmarried Perſons, who are able to ſubſiſt
+without a depen<g ref="char:EOLhyphen"/>dance, they have a fairer opportunity than Men, if they
+continue long in that eſtate, to improve the Principles they have ſucked
+in, and to ri<g ref="char:EOLhyphen"/>pen the Seeds of Learning which have been ſown in their minds
+in their tender years. Beſides, this will be an honeſt and profitable
+diverſion to poſſeſs their minds, to keep out worſe thoughts. Maids
+that cannot ſubſiſt without depending, as Servants, may chuſe their
+places, to at<g ref="char:EOLhyphen"/>tend upon honourable Perſons, or to be imployed in Nurſeries;
+by their Converſation, to team Tongues to Children, whilſt carried in Arms;
+who perhaps, when they find their own feet, will not abide the <hi>tedium</hi>
+of a School.</p>
+               <p>The famous Lord <hi>Mountagn</hi> was thus improved, to the
+amazement of all, which made him ever after hate all Pedantick Education.</p>
+               <p>
+                  <pb n="27" facs="tcp:64990:14"/>
+                  <hi>Julius Ceſar</hi> alſo received
+ſuch a tincture, whilſt he was in the Nur<g ref="char:EOLhyphen"/>ſery, that he was the reviver
+of the purity of the Latin Tongue in his dayes.</p>
+               <p>Married Perſons, by vertue of this Education, may be very
+uſeful to their Husbands in their Trades, as the Women are in
+<hi>Holland;</hi> and to their Children, by timely inſtructing them, before
+they are fit to be ſent to School; as was the caſe of <hi>Ceſar</hi> and
+the Lord <hi>Mountagn.</hi>
+               </p>
+               <p>I need not ſhew how any Perſons, thus brought up, if they
+happen to be Widows, will be able to underſtand and manage their own
+Affairs.</p>
+               <p n="2">2. Women thus educated, will be beneficial to their
+Relations. It is a great bleſſing of God to a Family, to provide a good
+Wife for the Head, if it be eminent; and a preſage of ruine, when he ſends
+a ranting <hi>Je<g ref="char:EOLhyphen"/>zebel</hi> to a ſoft <hi>Ahab.</hi>
+               </p>
+               <p>One <hi>Athaliah,</hi> married to <hi>Joram,</hi> plucks ruine
+upon the Houſe of <hi>Je<g ref="char:EOLhyphen"/>hoſaphat.</hi> How many Families have been ruined
+by this one thing, the bad education of Women? Becauſe the Men find no
+ſatisfactory con<g ref="char:EOLhyphen"/>verſe or entertainment at home, out of meer wearineſs
+they ſeek abroad; hence they neglect their Buſineſs, ſpend their
+Eſtates, deſtroy their Bo<g ref="char:EOLhyphen"/>dies, and oftentimes damn their Souls.</p>
+               <p>The <hi>Italians</hi> ſlight their Wives, becauſe all
+neceſſary knowledge, that may make them ſerviceable (attainable by
+inſtitution) is denyed them: but they court, adore, and glory in their
+Curtezans, though common Whores; becauſe they are poliſhed with more
+generous breeding.</p>
+               <p>Many learned Men, having married Wives of excellent Parts, have
+themſelves inſtructed them in all kinds of Learning, the more to fit them
+for their Converſe, and to indear them and their ſociety to them, and to
+make them admired by others. The Woman is the glory of the Man; we joy in our
+Children when eminent, and in our Wives when excellent, either in Body or
+Mind.</p>
+               <p>I have ſaid before how they may improve their Children in
+Learning, eſpecially the Tongues; I mention it again, becauſe it is a
+reaſon of ſo great weight, that it is ſufficient (if there was nothing
+elſe) to turn the Scale. <hi>Tullia</hi> had never been ſo eloquent, had
+not ſhe had ſo learned a Mother as <hi>Hortenſia.</hi>
+               </p>
+               <p>The <hi>Gracchi, Baptiſta, Damar, Ariſtippus,
+Euſtochium</hi> (before men<g ref="char:EOLhyphen"/>tioned) had never been ſo famous in Arts and
+Tongues, had they not been timely taught by their Mothers, <hi>Cornelia,
+Conſtantia, Arete,</hi> and <hi>Paula.</hi>
+               </p>
+               <p>
+                  <pb n="28" facs="tcp:64990:15"/>King <hi>Lemuel</hi>'s Wiſdom was
+extraordinary, yet he acknowledges the Seeds were ſown by the timely
+inſtruction of his Mother, <hi>Prov.</hi> 31. Therefore <hi>Solomon</hi>
+charges Children to mind the Inſtruction of their Mothers; having found ſo
+much good by it himſelf.</p>
+               <p>Beſides, none have ſo great an advantage of making moſt
+deep im<g ref="char:EOLhyphen"/>preſſion on their Children, as Mothers. What a prudent and virtuous
+Mother commends by Precept and Example, ſticks long; witneſs
+<hi>Le<g ref="char:EOLhyphen"/>muel</hi> and his Proverbs, many of which he ſuckt in with his Mothers
+Milk.</p>
+               <p>
+                  <hi>Timothy</hi> was taught the Holy Scriptures from a Child, by
+his Grand<g ref="char:EOLhyphen"/>mother <hi>Lois,</hi> and by his Mother <hi>Eunice.</hi>
+               </p>
+               <p>We may preſume the Children of the Elect Lady, were found
+walk<g ref="char:EOLhyphen"/>ing in the Truth from their Mothers Inſtructions. For they ſeldom
+ſpeake the Language of <hi>Canaan,</hi> whoſe Mothers are of
+<hi>Aſhdod.</hi>
+               </p>
+               <p n="3">3. Women thus inſtructed will be beneficial to the
+Nation. Look into all Hiſtory, thoſe Nations ever were, now are, and
+alwayes ſhall be, the worſt of Nations, where Women are moſt undervalued;
+as in <hi>Ruſſia, Ethiopia,</hi> and all the Barbarous Nations of the
+World. One great Reaſon why our Neighbours the <hi>Dutch</hi> have thriven to
+admirati<g ref="char:EOLhyphen"/>on, is the great care they take in the Education of their Women, from
+whence they are to be accounted more vertuous, and to be ſure more uſe<g ref="char:EOLhyphen"/>ful
+than any Women in the World. We cannot expect otherwiſe to prevail againſt
+the Ignorance, Atheiſm, Propnaneneſs, Superſtition, Ido<g ref="char:EOLhyphen"/>latry, Luſt,
+that reigns in the Nation, than by a Prudent, Sober, Pi<g ref="char:EOLhyphen"/>ous, Vertuous Education
+of our Daughters. Their Learning would ſtir up our Sons, whom God and Nature
+hath made ſuperior, to a juſt emulation.</p>
+               <p>Had we a ſufficient number of Females thus inſtructed to
+furniſh the Nurſeries of Noble Families, their Children might be improved
+in the knowledge of the Learned Tongues before they were aware. I menti<g ref="char:EOLhyphen"/>on this
+a third time, becauſe it is of ſuch moment and concern.</p>
+               <p>The memory of Queen <hi>Eliſabeth</hi> is yet freſh. By her
+Learning ſhe was fitted for Government, and ſwayed the Scepter of this
+Nation with as great honour as any man before her.</p>
+               <p>Our very reformation of Religion, ſeems to be begun and
+carried on by Women.</p>
+               <p>Mris. <hi>Ann Askue,</hi> a Perſon famous for Learning and
+Piety, ſo ſea<g ref="char:EOLhyphen"/>ſoned the Queen, and Ladies at Court, by her Precepts and
+Examples, and after ſealed her Profeſſion with her Blood, that the Seed
+of Reformation ſeemed to be ſowed by her hand.</p>
+               <p>
+                  <pb n="29" facs="tcp:64990:15"/>
+                  <hi>Henry</hi> the Eighth made a beginning
+out of State Policy, his Femi<g ref="char:EOLhyphen"/>nine Relations acted out of true Piety; this
+ſtuck in the Birth till his Daughter Queen <hi>Elizabeth</hi> carried it to
+the height it is now at.</p>
+               <p>My deſign is not to ſay all that may be ſaid in the
+praiſe of Women. How modeſt and chaſt many have been; how remarkable in
+their love to their Husbands, how conſtant in Religion, how dutiful to their
+Pa<g ref="char:EOLhyphen"/>rents, or how beneficial to their Countrey.</p>
+               <p>The Scripture mentions the wiſe Woman at <hi>Abel,</hi> who
+ranſomed the City from <hi>Joab</hi>'s Sword with <hi>Sheba</hi>'s Head, when
+all the men were in a maze and knew not what to do. <hi>Debora</hi> was more
+inſtrumental to de<g ref="char:EOLhyphen"/>liver <hi>Iſrael</hi> than <hi>Barak. Nabal</hi> and his
+Houſe had been deſtroyed, had not <hi>Abigail</hi> wiſely pacified
+<hi>David.</hi> The whole People of the <hi>Jews</hi> had been cut off, had not
+<hi>Heſter</hi> adventured her life at the feet of <hi>Abaſue<g ref="char:EOLhyphen"/>rus.</hi>
+               </p>
+               <p>My intention is not to equalize Women to Men, much leſs to
+make them ſuperior. They are the weaker Sex, yet capable of impreſſions
+of great things, ſomething like to the beſt of Men.</p>
+               <p>
+                  <hi>Hercules</hi> and <hi>Theſeus</hi> were very valiant;
+<hi>Manalippe</hi> and <hi>Hyppolite</hi> were little inferior to them.
+<hi>Zeuxes</hi> and <hi>Timanthes</hi> were brave Pain<g ref="char:EOLhyphen"/>ters. So were
+<hi>Timarete, Irene, Lala, Martia,</hi> and many others.</p>
+               <p>For Poetry, <hi>Sappho</hi> may be compared with <hi>Anacreon;
+Corinna</hi> with <hi>Pindar. Tullia</hi> was eloquent like <hi>Cicero.
+Cato</hi>'s Daughter little infe<g ref="char:EOLhyphen"/>rior to himſelf in the Theory and Practice
+of Philoſophy. <hi>Semiramis</hi> was like <hi>Alexander</hi> in
+magnificence. The <hi>Tanaquils</hi> as politick as <hi>Ser<g ref="char:EOLhyphen"/>vius Tullius.</hi>
+The <hi>Porcea</hi>'s were as magnanimous as <hi>Brutus.</hi>
+               </p>
+               <p>The inference I make from hence is, that Women are not ſuch
+ſilly giddy creatures, as many proud ignorant men would make them; as if they
+were uncapable of all improvement by Learning, and unable to digeſt Arts,
+that require any ſolidity of Judgment. Many men will tell you, they are ſo
+unſtable and unconſtant, born down upon all occa<g ref="char:EOLhyphen"/>ſions with ſuch a
+torrent of Fear, Love, Hatred, Luſt, Pride, and all manner of exorbitant
+Paſſions, that they are uncapable to practiſe any Vertues, that require
+greatneſs of Spirit, or firmneſs of Reſolution. Let ſuch but look into
+Hiſtory, they will find Examples enow of illu<g ref="char:EOLhyphen"/>ſtrious Women to confute
+them.</p>
+               <p>Before I mention the Objections, I ſhall ſtate the
+Propoſitions I have endeavoured to prove; That which I intend is this, That
+Perſons of competent natural parts, indifferently inclin'd and diſpoſed
+to Learning, whom God hath bleſſed with Eſtates, that they are not
+cumbred in the World, but have liberty and opportunity in their Childhood; and
+af<g ref="char:EOLhyphen"/>terwards,<pb n="30" facs="tcp:64990:16"/>being competently inſtructed in all things
+now uſeful that concern them as Women, may and ought to be improved in more
+Po<g ref="char:EOLhyphen"/>lite Learning, in Religion, Arts, and the knowledge of things, in Tongues
+alſo as ſubſervient to theſe, rather then to ſpend the over-plus time
+of their youth, in making Points for Bravery, in dreſſing and trimming
+themſelves like <hi>Bartholomew</hi>-Babies, in Painting and Dancing, in
+making Flowers of Coloured Straw, and building Houſes of ſtained Paper, and
+ſuch like vanities.</p>
+               <p>Object. <hi>No Body means Gentlewomen ſhould be thus educated
+in mat<g ref="char:EOLhyphen"/>ters of meer vanity; but in practiſing their Needle, in knowing and
+doing thoſe things that concern good Houſewifery, which is Womens
+particular qua<g ref="char:EOLhyphen"/>lification.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I know not what may be meant, but I ſee what
+is generally done. In moſt Schools for educating this Sex, little more is
+propoſed by the Undertakers, or expected by the Parents. As far as I can
+ob<g ref="char:EOLhyphen"/>ſerve, the leſs any thing of ſolidity is taught, the more ſuch
+places are frequented. I do acknowledge, in the ſtate of the Queſtion, that
+Wo<g ref="char:EOLhyphen"/>men ſhould be accompliſhed in all thoſe things that concern them as
+Wo<g ref="char:EOLhyphen"/>men. My meaning is, The over-plus time may be imployed in poliſh<g ref="char:EOLhyphen"/>ing their
+minds with the knowledge of ſuch things as may be honoura<g ref="char:EOLhyphen"/>ble, pleaſant and
+profitable to them, and their Relations afterwards.</p>
+               <p>Before I proceed further to Anſwer the remaining Objections, I
+de<g ref="char:EOLhyphen"/>ſire this may be taken notice of, That what-ever is ſaid againſt this
+manner of Educating Women, may commonly be urged againſt the Edu<g ref="char:EOLhyphen"/>cation of
+Men.</p>
+               <p>Object. <hi>If we bring up our Daughters to Learning, no
+Perſons will ad<g ref="char:EOLhyphen"/>venture to Marry them.</hi>
+               </p>
+               <p n="1">
+                  <hi>Anſw.</hi> 1. Many men, ſilly enough, (God knows)
+think themſelves wiſe, and will not dare to marry a wiſe Woman, leſt
+they ſhould be over-topt.</p>
+               <p n="2">2. As ſome Husbands, debauched themſelves, deſire
+their Wives ſhould be chaſt, and their Children vertuous: So ſome men,
+ſenſible of their own want, (cauſed by their Parents neglect) will
+chuſe a learned Wo<g ref="char:EOLhyphen"/>man, in whom they may glory, and by whoſe prudence their
+defect may be ſupplyed.</p>
+               <p n="3">3. Learned men, to be ſure, will chuſe ſuch the
+rather, becauſe they are ſutable. Some Men marrying Wives of good natural
+parts, have improved themſelves in Arts and Tongues, the more to fit them for
+their converſe.</p>
+               <p n="4">4. Many Women formerly have been preferred for this very
+thing.</p>
+               <p>
+                  <pb n="31" facs="tcp:64990:16"/>
+                  <hi>Athenais,</hi> Daughter to
+<hi>Leontius</hi> the Philoſopher, left deſtitute by him, was entertained
+by his Siſter <hi>Placida</hi> for her Learning, and was after married to the
+Emperor <hi>Theodoſius,</hi> charmed by her worth, being fitted by her
+education for that high place; ſhe is recorded for an excellent Empreſs.
+Upon her being baptized, ſhe was called <hi>Eudocea.</hi>
+               </p>
+               <p>
+                  <hi>Conſtantine</hi> married <hi>Helena</hi> the Daughter of
+<hi>Lois,</hi> more for her Learn<g ref="char:EOLhyphen"/>ing, than any other accompliſhments.</p>
+               <p>We may probably imagine <hi>Hortenſia, Terentia, Tullia,</hi>
+and divers others, had never been married to ſuch brave men, had not their
+Edu<g ref="char:EOLhyphen"/>cation preferred them.</p>
+               <p>If this way of educating Gentlewomen ſhould now be ſet on
+foot, there will not be ſo great a number bred; but (as degenerate as times
+are) there would be found learned men enow, to whom they may be preferred for
+their very Education.</p>
+               <p>Object. <hi>It is againſt cuſtom to Educate Gentlewomen
+thus.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Bad cuſtoms ought to be broken, or elſe
+many good things would never come into uſe. I have ſhewed this is a
+Heatheniſh Cuſtom, or a worſe, continued amongſt us upon very bad
+grounds.</p>
+               <p>Object. Solomon<hi>'s good Houſewife is commended for riſing
+early, im<g ref="char:EOLhyphen"/>ploying her Servants, making Garments, by which her Husband was known
+in the Gate. It ſeems ſhe was of quality, ſhe had ſo many Servants, and
+her Husband a Magiſtrate; their Courts of Judicature were at the Gate: no
+mention is made of Arts or Tongues.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It ſeems Perſons of Quality were more
+induſtrious in thoſe times than they are now. I do not intend to hinder
+good Houſe-wifery, neither have I called any from their neceſſary Labour
+to their Book. My deſign is upon ſuch Perſons whoſe leaſure is a
+burthen.</p>
+               <p>Further, if <hi>Solomon</hi>'s good Houſe-wife was
+accompliſhed with Arts and Tongues, ſhe would have more reverence from her
+Servants, and by her knowledge in Economicks, know better how to manage ſo
+great a Family.</p>
+               <p>
+                  <hi>Solomon</hi> deſcribes an induſtrious Woman. I am
+ſuggeſting what per<g ref="char:EOLhyphen"/>ſons ought to do that are about theſe things.
+Thoſe that deny this, de<g ref="char:EOLhyphen"/>ſerve no Anſwer, but are to be thought on with
+ſcorn, as that Duke that thought Women wiſe enough that knew their Husbands
+Doublet and Breeches aſunder.</p>
+               <p>If there be any perſons ſo vain, and are yet pleaſed with
+this Apiſh kind of Breeding now in uſe, that deſire their Daughters
+ſhould be out<g ref="char:EOLhyphen"/>wardly dreſſed like Puppets, rather than inwardly adorned
+with Know<g ref="char:EOLhyphen"/>ledge, let them enjoy their humour; but never wonder if ſuch
+Marmo<g ref="char:EOLhyphen"/>ſets<pb n="32" facs="tcp:64990:17"/>married to Buffoons, bring forth and breed up a
+generation of Ba<g ref="char:EOLhyphen"/>boons, that have little more wit than Apes and Hobby-Horſes.
+I can<g ref="char:EOLhyphen"/>not ſay enough againſt this Barbarous rudeneſs, to ſuffer one
+part, I had almoſt ſaid the better part, of our ſelves to degenerate (as
+far as poſſible) into brutality.</p>
+               <p>Object. <hi>Women are of ill Natures, and will abuſe their
+Education: They will be proud, and not obey their Husbands; they will be
+pragmatick, and boaſt of their Parts and Improvements. The ill Nature that is
+in them, will become more wicked, the more wit you furniſh them
+with.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> This is the killing Objection, and every
+thick-skull'd Fellow that babbles this out, thinks no <hi>Billingsgate</hi>
+Woman can Anſwer it. I ſhall take the Objection in pieces.</p>
+               <p n="1">1. <hi>They will abuſe Learning.</hi>] So do men; he is
+egregiouſly ſim<g ref="char:EOLhyphen"/>ple, that argues againſt the uſe of a neceſſary or
+very convenient thing from the abuſe of it. By this Argument no men ſhould
+be liberally brought up; ſtrong Drinks ſhould never be uſed any more in
+the World, and a hundred ſuch like things.</p>
+               <p n="2">2. <hi>They are of ill Natures.</hi>] This is an impudent
+calumny; as if the whole Sex of Women, or the greateſt part of them, had that
+malice infuſed into their very Natures and Conſtitutions, that they are
+ordi<g ref="char:EOLhyphen"/>narily made worſe by that Education that makes Men generally better. 
+<q> 
+                     <l>— Ingenuas didiciſſe fideliter artes</l> 
+                     <l>Emollit mores, nec ſinit eſſe feros.</l>
+                  </q> The
+Heathen found, that Arts wrought upon Men, the rougher Sex. Surely it is want
+of fidelity in the Inſtructer, if it have not the like effect upon ſofter
+and finer Materials.</p>
+               <p n="3">3. <hi>They will be proud, and not obey their
+Husbands.</hi>] To this I An<g ref="char:EOLhyphen"/>ſwer; What is ſaid of Philoſophy, is true of
+Knowledge; a little Phi<g ref="char:EOLhyphen"/>loſophy carries a Man from God, but a great deal
+brings him back a<g ref="char:EOLhyphen"/>gain; a little knowledge, like windy Bladders, puffs up, but
+a good meaſure of true knowledge, like Ballaſt in a Ship, ſettles down,
+and makes a perſon move more even in his ſtation; 'tis not knowing too
+much, but too little that cauſes the irregularity. This ſame Argument may
+be turned upon Men; what-ever they anſwer for themſelves, will defend
+Woman.</p>
+               <p>Thoſe that deſire a farther Anſwer, let them peruſe
+<hi>Eraſmus</hi> his Dialogue, of the <hi>Ignorant Abbot</hi> and the
+<hi>Learned Woman.</hi> An igno<g ref="char:EOLhyphen"/>rant Magiſtrate, or Miniſter, may as well
+plead againſt improvement<pb n="33" facs="tcp:64990:17"/>of Knowledge in all below them,
+leſt they ſhould be wiſer than them<g ref="char:EOLhyphen"/>ſelves, and ſo deride them. Do
+not deny Women their due, which is to be as well inſtructed as they can; but
+let Men do their duty, to be wiſer than they are. If this doth not pleaſe,
+let ſilly Men let wiſe Women alone; the rule is, All ſhould be (as near
+as they can) equally yoked.</p>
+               <p>Object. <hi>The end of Learning is publick Buſineſs, which
+Women are not capable of. They muſt not ſpeak in the Church; and it is more
+proper for men to Act in the Common-Wealth than they.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> They may not ſpeak in the Church, but they
+may inquire of their Husbands at home; it is private inſtruction I plead for,
+not pub<g ref="char:EOLhyphen"/>lick Imployment. Yet there is no ſuch contradiction in the terms:
+<hi>Miriam</hi> and <hi>Deborah</hi> were extraordinarily called forth by God,
+as well as <hi>Aaron</hi> and <hi>Barak.</hi> Sometimes Women may have
+occaſions for publick Buſineſs, as Widows, and Wives when their Husbands
+are abſent; but eſpecially perſons born to Government. The
+<hi>Salique</hi> Law hath not pre<g ref="char:EOLhyphen"/>vailed all the World over, and good reaſon
+too; for Women upon Thrones have been as glorious in their governing, as many
+Men, as I have ſhewed before. But lay all this aſide; there are other ends
+of Learning, beſides pleading in the Hall, and appearing in the Pulpit.
+Private Perſons (as I have before ſhewed) may many ways pleaſe
+them<g ref="char:EOLhyphen"/>ſelves, and benefit others. This Objection alſo will turn the Point
+up<g ref="char:EOLhyphen"/>on all Men that are in a private capacity.</p>
+               <p>Object. <hi>They will not mind their Houſhold
+Affairs.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Men are judged to be more capable of Countrey
+buſineſs by liberal Education. Moſt ingenious Contrivances, even in
+Husbandry and Trades, have been invented by Scholars. You may as well ſay, a
+Gentleman that hath Countrey Affairs to manage, ought not to be a Scholar,
+becauſe he will be poring upon his Book, when he ſhould be looking after
+his Plowmen.</p>
+               <p>Object. <hi>They have other things to do.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Thoſe which have, may mind thoſe things for
+ought I have ſaid: The Queſtion is of perſons at leaſure, Whether
+theſe had not bet<g ref="char:EOLhyphen"/>ter be imployed in ſome good Literature, than in pilling
+Straws, or doing nothing, which is the certain Seed of doing miſchief?</p>
+               <p>Object. <hi>Women do not deſire Learning.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Neither do many Boys, (as Schools are now
+ordered) yet I ſuppoſe you do not intend to lay Fallow all Children that
+will not bring forth Fruit of themſelves, to forbear to inſtruct thoſe
+which at preſent do not thank you for it.</p>
+               <p>But I have ſaid, there is in all an innate deſire of
+knowing, in Wo<g ref="char:EOLhyphen"/>men<pb n="34" facs="tcp:64990:18"/>as well as Men: if the wayes to the
+Temple of <hi>Pallas</hi> be ſo tedious and intricate, that they confound or
+tire her Servants; or, if you dreſs up Learning in ſuch an ugly and
+monſtrous ſhape, that you afright Children; I have nothing to ſay to
+ſuch, but that they ſhould reform their Schools, or elſe all will think
+they have no deſire any, either Male or Female, ſhould be inſtructed.</p>
+               <p>Object. <hi>Women are of low Parts.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> So are many Men; we plead only for thoſe
+which have com<g ref="char:EOLhyphen"/>petent Parts. To be ſure, ſome Women are as capable of
+Learning, and have attained to as great height in it as moſt Men; witneſs
+thoſe Examples before produced.</p>
+               <p>If this be true, their Parts generally are lower than Mens,
+there is the more need they ſhould by all convenient means be improved.
+Crutches are for infirm perſons.</p>
+               <p>Object. <hi>Women are of ſofter Natures, more delicate and
+tender Conſti<g ref="char:EOLhyphen"/>tutions, not ſo fixed and ſolid as Men.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> If their Natures are ſoft, they are more
+capable of good Im<g ref="char:EOLhyphen"/>preſſions; if they are weak, more ſhame for us to
+neglect them, and defraud them of the benefit of <hi>Education,</hi> by which
+they may be ſtrengthened.</p>
+               <p>Object. <hi>It is againſt cuſtom to educate Gentlewomen
+thus; thoſe that do attempt it, will make themſelves ridiculous.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> This Argument might have been uſed to the
+<hi>Iriſh;</hi> not to uſe Traces at Plow and Cart, but to draw their
+Horſes by their Tails, which was a general cuſtom amongſt them. Bad
+Cuſtoms (when it is evident they are ſo) ought to be broken, or elſe good
+Cuſtoms can never come into uſe. That this is a bad Cuſtom, is evident,
+continued upon a bad ground. Let Women be Fools, and then you may eaſily make
+them Slaves.</p>
+               <p>Object. <hi>What need Women learn Tongues, there are Books enow
+in Engliſh for them to peruſe?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The great Thing I deſign is, the Knowledge of
+things; as Religion, the Names and Natures of Herbs, Shrubs, Trees,
+Mineral-Juyces, Metals, and Precious Stones; as alſo the Principles of Arts
+and Sciences before mentioned. The learning of Tongues is only ſubſer<g ref="char:EOLhyphen"/>vient
+to theſe. Was all Learning in <hi>Engliſh,</hi> as it is now in
+<hi>French,</hi> I think thoſe dead Languages would be of little uſe, only
+in reference to the Scriptures. My opinion is, in the Educating of Gentlewomen,
+greater care ought to be had to know things, than to get words. If one 
+<pb n="35" facs="tcp:64990:18"/>muſt be neglected, it's better to neglect Tongues than
+Arts; though it is beſt where both may be had.</p>
+               <p>Object. Solomon<hi>'s vertuous Woman,</hi> Prov. 31. <hi>is
+commended for good Houſewifery, not for Arts and Tongues; yet her Husband was
+a Perſon of Quality, he ſat amongst the Elders of the Land in the
+Gate.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It ſeems Perſons of Quality were more
+induſtrious in thoſe times than now they are. Our Ladies would count it a
+great diſpa<g ref="char:EOLhyphen"/>ragement to them to do as ſhe did; to ſeek Wool and Flax, and
+to work willingly with their own hands, <hi>verſ.</hi> 13. to lay their hands
+to the Spindle, and to take hold on the Diſtaff, <hi>verſ.</hi> 19. to
+riſe while it is Night, and to give Meat to her Houſhold, and a Portion to
+her Maids, <hi>verſ.</hi> 15. It's like the neceſſities of thoſe times
+were greater, and the way of living far different from that which is now in
+uſe. The Duke of <hi>Florence</hi> is a great Merchant; Noblemen in
+<hi>England,</hi> and Gentlemen in <hi>France,</hi> think it diſparagement to
+them to be ſo.</p>
+               <p>
+                  <hi>Anſw.</hi> 2. I plead that our Ladies ſhould have but
+the ſame Abilities this vertuous Woman had; not to labour as ſhe did, but
+to underſtand as ſhe did. I am ſure to do all thoſe things well that
+ſhe performed, ſo as to be reverenced of her Servants, that her Children
+ſhould riſe up be<g ref="char:EOLhyphen"/>fore her, and call her Bleſſed, and that her Husband
+ſhould praiſe her, requires knowledge in Arts and Sciences, which were
+hardly got in thoſe dayes without the knowledge of Tongues; if they then
+were, or can be now, I am contented without them.</p>
+               <p>To buy Wooll and Flax, to die Scarlet and Purple, requires skill
+in Natural Philoſophy. To conſider a Field, the quantity and quality,
+re<g ref="char:EOLhyphen"/>quires knowledge in Geometry. To plant a Vineyard, requires under<g ref="char:EOLhyphen"/>ſtanding
+in Husbandry: She could not Merchandize, without know<g ref="char:EOLhyphen"/>ledge in Arithmetick: She
+could not govern ſo great a Family well, without knowledge in Politicks and
+Oeconomicks: She could not look well to the wayes of her Houſhold, except
+ſhe underſtood Phyſick and Chirurgery: She could not open her Mouth with
+Wiſdom, and have in her Tongue the Law of kindneſs, unleſs ſhe
+underſtood Grammar, Rhetorick and Logick. This ſeems to be the
+deſcription of an honeſt, well-bred, ingenious, induſtrious Dutch-woman.
+I deſire our Women (whoſe condition calls them to buſineſs) ſhould
+have no other breeding, but what will enable to do thoſe things performed by
+this Woman.</p>
+               <p>As for thoſe that are above theſe, I am ſure the higheſt
+breeding ima<g ref="char:EOLhyphen"/>ginable will be uſeful to them. I believe the men of our times
+would ſay, it's pitty any Woman ſhould have ſo much Authority as this
+Wo<g ref="char:EOLhyphen"/>man<pb n="36" facs="tcp:64990:19"/>had, ſhe would be ſo maſterly there would be no
+living with her.</p>
+               <p>Object. Another Objection that ſeems unanſwerable, is this;
+<hi>How ſhall time be found to teach Children theſe things here propoſed?
+Boyes go to School ordinarily from ſeven till ſixteen or ſeventeen, and
+not above one in four attain ſo much knowledge in the Tongues; as to be
+admitted into the <g ref="char:V">Ʋ</g>niverſity, where no great accuracy is required; and they
+learn nothing elſe uſually, beſides a little Hiſtory: Gentlewomen will
+not ordinarily be ſent out ſo ſoon, nor is it convenient they ſhould
+continue ſo long. Further, half their time, it is ſuppoſed, muſt be
+ſpent in learning thoſe things that concern them as Women. Twice as many
+things are propoſed to be taught Girls in half the time, as Boyes do learn,
+which is impoſſible.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> This Objection makes the whole Contrivance
+ſeem idle, un<g ref="char:EOLhyphen"/>leſs a ſatisfactory Anſwer be given.</p>
+               <p>I ſay therefore, The learning of things will be no hinderance
+to the getting Words. Words are the marks of things, and they are learnt better
+together than aſunder. As a man ſhall ſooner remember Names, if he ſee
+the perſons, ſo a Girl ſhall much eaſier faſten in her memory the
+names of Herbs, Shrubs, Mineral-Juyces, Metals, Precious Stones; as alſo the
+names of Birds, Beaſts, Fiſhes; the parts of Man's Body; if ſhe ſee the
+things themſelves in <hi>ſpecie;</hi> or the Pictures and
+Repre<g ref="char:EOLhyphen"/>ſentations, where the things themſelves cannot be had. This is a
+great Truth, (if there be any ſuch thing as a concatenation of Notions, as
+doubtleſs there is) the thing being perceived, Words freely follow.
+Be<g ref="char:EOLhyphen"/>ſides, to learn words thus, will be very pleaſant and delightful, even
+to Children. As the eye is not ſatisfied with ſeeing, if it be an Object it
+can reach and diſtinguiſh: So the mind of a Child is not ſatisfied with
+underſtanding, if it be a thing he can apprehend. Let thoſe that do believe
+this, try a Child of four years old in plain Pictures of Men, Beaſts, Birds,
+or Fiſhes, they will ſee how inquiſitive he will be; or, let them ſhew
+Herbs, Flowers, Stones, or any thing rare, and ſee whe<g ref="char:EOLhyphen"/>ther it is any burthen
+to the Childs underſtanding or memory to learn the name when he ſees the
+thing.</p>
+               <p>Let no Body be afrighted, becauſe ſo many things are to be
+learnt, when the learning of them will be ſo pleaſant; how profitable I
+need not tell you.</p>
+               <p>If any doubt how this may be done, or what Authors we ſhall
+uſe, that words and things may be learnt together;</p>
+               <p>I Anſwer, <hi>Comenius</hi> hath prepared
+<hi>Nomenclatures</hi> for this purpoſe. His<pb n="37" facs="tcp:64990:19"/>
+                  <hi>Orbis
+Pictus,</hi> contains all the Primitive Latine words, and the repreſen<g ref="char:EOLhyphen"/>tation
+of moſt things capable of being ſet out by Pictures; it may be learnt by
+beginners in three months, and is as a Syſtem of his <hi>Janua
+Linguarum.</hi>
+               </p>
+               <p>This <hi>Janna Linguarum,</hi> a Syſtem of things,
+conſiſts of a thouſand Sentences; ten of which may be learnt in one day,
+fifty in a week, the thouſand in twenty-ſix weeks; allowing one day in a
+week, and one week in a month for Repetition, that we may keep what we get.
+Thus nine months is ſpent, I mean by Gentlewoman, that ſpend but ſix
+hours in a day at their Books; the other three months may be imployed in
+gaining the <hi>French</hi> Tongue, which I thus demonſtrate.</p>
+               <p>If the Latin <hi>Janua</hi> may be learnt in ſix months, where
+moſt of the words are new, then the <hi>French</hi> may be learnt in three,
+by one that un<g ref="char:EOLhyphen"/>derſtands <hi>Engliſh</hi> and <hi>Latin;</hi> becauſe
+there is not above one word of ten in the <hi>French</hi> Tongue, that may not
+fairly, without force, be re<g ref="char:EOLhyphen"/>duced to the <hi>Latin</hi> or
+<hi>Engliſh.</hi>
+               </p>
+               <p>Theſe two new Languages being learnt, one will help to keep
+the other. This I propoſe may be done to a Gentlewoman of nine or ten years
+old, that is of good Capacity; lower Parts require longer time.</p>
+               <p>If we ſhould dance that wild-Gooſe-chaſe uſually led, it
+would require longer time; ordinarily Boys learn a Leaf or two of the
+<hi>Pueriles,</hi> twen<g ref="char:EOLhyphen"/>ty Pages of <hi>Corderius,</hi> a part of <hi>Eſop's
+Fables,</hi> a piece of <hi>Tullie,</hi> a little of <hi>Ovid,</hi> a remnant
+of <hi>Virgil, Terence,</hi> &amp;c. and when all this is done, they have not
+much above half ſo many words as this little <hi>Enchiridion,</hi> the
+<hi>Janua,</hi> ſupplies them with.</p>
+               <p>It's true, this courſe inſtructs us only in the propriety of
+the words; therefore it is ſo much the better, it's the univerſal proceſs
+of Nature to riſe by degrees, to proceed from Seeds to Leaves, from Leaves to
+Flow<g ref="char:EOLhyphen"/>ers; from plain things to things ornamental. One would think thoſe
+learned Men mad, that go quite contrary to this Proceſs; that propoſe to
+ſeaſon with Rhetorick, and a ſtile, by reading crabbed Claſſick
+Au<g ref="char:EOLhyphen"/>thors, as <hi>Terence,</hi> &amp;c. before Children underſtand any thing
+of the plain ſignification of words.</p>
+               <p>But, methinks, I hear my Reader complain that I abuſe him: I
+hear him confeſs this is but reaſon; But he thinks I ſhun the difficulty,
+and ſay nothing to <hi>Grammar,</hi> the ground-work of all; to begin at
+<hi>In Speech,</hi> to read the <hi>Accidence,</hi> and to get it without Book,
+is ordinarily the work of one whole year.</p>
+               <p>
+                  <pb n="38" facs="tcp:64990:20"/>To Conſtrue the <hi>Grammar,</hi> and to
+get it without-Book, is at leaſt the task of two years more; and then, it may
+be, it is little under<g ref="char:EOLhyphen"/>ſtood, until a year or two more is ſpent in making
+plain Latin. My Reader, it may be, thinks I have forgot, or purpoſely omitted
+to allow time for theſe things, without which nothing can be done.</p>
+               <p>I do confeſs, to proceed in <hi>Lilly</hi>'s Method, (as is
+before mentioned) to commit the very <hi>Accidence</hi> and <hi>Grammar</hi> to
+memory, requires three or four years, ſometimes more, (as many can witneſs
+by woful experi<g ref="char:EOLhyphen"/>ence) and when all is done, beſides <hi>declining Nouns,</hi>
+and <hi>forming Verbs,</hi> and getting a few words, there is very little
+advantage to the Child. This being ſuppoſed, it's not likely Children of
+ordinary Parts ſhould in ſo ſhort a time be improved in any competent
+meaſure in the Latin Tongue.</p>
+               <p>The great reaſon of theſe Intricacies is, the whole Method
+ſwerves from the Rules of true Didacticks.</p>
+               <p n="1">1. This is an undenyable Principle; All Rules ought to be
+plain, that they may be eaſily underſtood, eſpecially ſuch as are to be
+learnt by Children, to the meanneſs of whoſe Capacities we ought to
+conde<g ref="char:EOLhyphen"/>ſcend.</p>
+               <p>The Rules in <hi>Lilly's Grammar</hi> are not ſo, becauſe
+they are in Latin, a Tongue the Learner doth not underſtand; and which is
+worſe, a great part of them is in verſe, hardly intelligible to a Child if
+they are tran<g ref="char:EOLhyphen"/>ſlated into Grammatical Engliſh.</p>
+               <p n="2">2. Another undoubted Principle is; All Knowledge is
+increaſed by <hi>Syncriſis,</hi> (comparing one thing with another) whoever
+would beget a new <hi>Idea</hi> in any ones underſtanding, reduces it (if
+poſſible) to ſome<g ref="char:EOLhyphen"/>thing he knows already, that is like it. This is a Law
+of Nature, who<g ref="char:EOLhyphen"/>ever proceeds according to it, moves ſmoothly, as an oyled
+Clock when the Wheels are put into their right places. Who-ever goes not
+according to this Rule, forces Water upwards, which returns to its Channel,
+ſo ſoon as the <hi>vis impreſſa</hi> is ſpent; his motion is like to
+a Leg or an Arm out of joynt, very uneaſie.</p>
+               <p>Much of the Method uſed in <hi>Lilly's Grammar,</hi> in the
+<hi>Etymologia,</hi> and the whole <hi>Syntax,</hi> that concerns Government,
+varies from this grand Principle.</p>
+               <p>Thoſe that would rationally teach Latin to a Child bred
+amongſt us, ought to accommodate his Inſtruction to the Engliſh Tongue,
+the Tongue ſhe knows already, and by <hi>Syncriſis,</hi> proceed
+<hi>à noto ad ignotum.</hi> This would be eaſie and pleaſant; but
+<hi>Lillies Grammar</hi> hath no more<pb n="39" facs="tcp:64990:20"/>reſpect to the
+<hi>Engliſh,</hi> than to the <hi>Welſh</hi> or <hi>Iriſh.</hi> For
+inſtance; <hi>A Noun is the name of a thing which may be ſeen, felt, heard,
+or underſtood.</hi> A Man doth not underſtand this, when the <hi>Noun</hi>
+is a ſecond Notion, or not obvious to ſenſe. Beſides, it may as well be
+applyed to <hi>Welſh, Iriſh, Dutch, French, Italian,</hi> or
+<hi>Spaniſh,</hi> as to an <hi>Engliſh</hi> Noun.</p>
+               <p>If you demand, <hi>How can a better Rule be given, which may be
+more uſeful?</hi>
+               </p>
+               <p>
+                  <hi>I Anſwer;</hi> A <hi>Noun</hi> may have uſually before
+it in the Engliſh, <hi>a, an,</hi> or <hi>the,</hi> as <hi>a Man, an Angel,
+the Book.</hi> This every Child underſtands at the firſt naming.</p>
+               <p>
+                  <hi>Lilly</hi> ſaith, <hi>A Subſtantive ſtands by it
+ſelf, and requires not another word to ſhew its ſignification. An
+Adjective cannot ſtand by it ſelf, but requires another word to ſhew its
+ſignification.</hi> This is better than the former, yet hard enough for a
+Child to underſtand. Take your indi<g ref="char:EOLhyphen"/>cation from the <hi>Engliſh,</hi> and
+ſee how plain it is. A <hi>Subſtantive</hi> varies in the number, as
+<hi>Book, Books.</hi> An <hi>Adjective</hi> doth not vary in the number, as
+<hi>good Book, good Books. Good</hi> is uſed both in the <hi>ſingular</hi>
+and <hi>plural Number.</hi>
+               </p>
+               <p>
+                  <hi>Pronouns,</hi> in our old <hi>Grammar,</hi> are ſaid to be
+<hi>parts of Speech much like to Nouns, uſed in Shewing or Rehearſing.</hi>
+They are like to Nouns, that is, they are the names of things that may be
+underſtood, and ſo like to <hi>Nouns</hi> in this, that I cannot know them
+aſunder. Then <hi>Lilly</hi> reckons them up in <hi>Latin,</hi> but dares not
+name them in <hi>Engliſh,</hi> leſt you ſhould know them too quickly. How
+eaſily is this diſpatched, if we enume<g ref="char:EOLhyphen"/>rate the <hi>Pronouns</hi> (let them
+be what they will) in two Claſſes, thus; <hi>I, thou, he, we, ye,
+they,</hi> are <hi>Subſtantives; my, thy, his, our, your,</hi> &amp;c. are
+<hi>Adjectives.</hi>
+               </p>
+               <p>It is better to tell a Child, <hi>Verbs</hi> have a ſign of a
+<hi>Mood</hi> or <hi>Tenſe,</hi> than to ſay, they ſignifie <hi>doing,
+ſuffering,</hi> or <hi>being.</hi>
+               </p>
+               <p>
+                  <hi>Participles</hi> are wildly deſcribed to be <hi>Parts of
+Speech,</hi> that take part of a <hi>Noun,</hi> and part of a <hi>Verb,</hi>
+&amp;c. No child is at all edified by the de<g ref="char:EOLhyphen"/>finition. I confeſs this part of
+Speech is moſt difficult to be known in the Engliſh Tongue; yet it may be
+done thus, All words ending in <hi>ing, d, t,</hi> or <hi>n,</hi> which have no
+ſign at all, and may be reſolved into <hi>Verbs,</hi> are
+<hi>Participles,</hi> as <hi>learning, which doth learn; learned, which is
+learn<g ref="char:EOLhyphen"/>ed.</hi>
+               </p>
+               <p>If we now look back, that great ſtumbling-block to
+diſtinguiſh the parts of Speech, (which coſts years, before a Child
+diſtinctly knows them, whilſt he looks upon them in their Latin dreſs) is
+got over in a<pb n="40" facs="tcp:64990:21"/>few dayes, when we take our direction from our
+own Tongue. I will repeat it again, that I may be perfectly underſtood.</p>
+               <p>A <hi>Noun</hi> may have uſually before it in the
+<hi>Engliſh</hi> Tongue, <hi>a, an,</hi> or <hi>the. Subſtantives</hi> have
+a different termination in the <hi>Number; Adjectives</hi> have not.</p>
+               <p>
+                  <hi>Pronouns</hi> are all enumerated about thirty; ſome are
+<hi>Subſtantives,</hi> others are <hi>Adjectives.</hi>
+               </p>
+               <p>
+                  <hi>Verbs</hi> may have a ſign of a <hi>Mood</hi> or
+<hi>Tenſe.</hi> All words ending in <hi>ing, d, t,</hi> or <hi>n,</hi> which
+have no ſign, and may be reſolved into <hi>Verbs,</hi> are,
+<hi>Participles.</hi>
+               </p>
+               <p>
+                  <hi>Prepoſitions</hi> are all enumerated, about thirty;
+what-ever integral word is not <hi>Noun, Pronoun, Verb, Participle,</hi> or
+<hi>Prepoſition,</hi> is either an <hi>Adverb,</hi> or a
+<hi>Conjunction,</hi> it matters not much which a beginner calls them.</p>
+               <p>
+                  <hi>Interjections</hi> are all virtual Sentences; a few dayes
+will maſter this, if we proceed gradually.</p>
+               <p>I do not know much more requiſite to Gentlewomen, that intend
+not to be critical, beſides declining <hi>Nouns,</hi> and forming
+<hi>Verbs.</hi>
+               </p>
+               <p>The ſpecial Rules for the <hi>genders</hi> of <hi>Nouns,</hi>
+are but five, and the ex<g ref="char:EOLhyphen"/>ceptions are not many.</p>
+               <p>There are but three general Rules for that part of
+<hi>Grammar</hi> called the <hi>As in praeſenti,</hi> the irregular
+<hi>Verbs,</hi> which moſt frequently occur in Authors, in number about five
+hundred, are learned as a <hi>Vocabulary.</hi>
+               </p>
+               <p>As to the <hi>Syntax;</hi> the two firſt Concords only are of
+uſe; and the Rules for Government, (eight ſcore in number in <hi>Lillies
+Grammar</hi>) are competently accommodated to the ſigns of the
+<hi>Caſes</hi> thus;</p>
+               <p>
+                  <hi>Subſtantives</hi> have their <hi>Caſes</hi> by the
+<hi>Signs,</hi> and they are governed of the word going before, on which they
+depend according to the ſigns <hi>of, to, for, with, from, by, then, in, at,
+on, a, the.</hi>
+               </p>
+               <p>Four exceptions ſubjoyned to this Rule, may make the
+<hi>Syntax</hi> com<g ref="char:EOLhyphen"/>pleat enough for a Woman, that intends onely a
+ſuperficial Knowledge in the Tongue; ten more exceptions (that concern onely
+particular words) will make them, as profound as moſt men are by <hi>Lillies
+Rules.</hi>
+               </p>
+               <p>To Anſwer the Objection fully; to know the parts of
+<hi>Speech</hi> by theſe Rules; to decline a <hi>Noun,</hi> to form a
+<hi>Verb,</hi> to digeſt the five gene<g ref="char:EOLhyphen"/>ral Rules, and five ſpecial Rules
+for the genders of <hi>Nouns,</hi> to commit to memory the three grand Rules,
+containing the <hi>As in praeſenti;</hi> to decline thoſe five hundred
+irregular <hi>Verbs,</hi> to underſtand the two <hi>Concords,</hi> and that
+one general Rule for Government, with four Exceptions, will not require many
+months.</p>
+               <p>
+                  <pb n="41" facs="tcp:64990:21"/>The Prefacer to <hi>Lillies Grammar</hi>
+(who I hope is very authentick) tells you, more than this may be done very
+accurately by thoſe blundering Rules of <hi>Lillie</hi> in the ſpace of
+three months, by Children of mean parts.</p>
+               <p>Thoſe that do not underſtand theſe ſhort hints, may
+peruſe a <hi>Gram<g ref="char:EOLhyphen"/>mar</hi> and an <hi>Apology;</hi> to which is added Rules
+for Pointing and Reading Grammatically; Compoſed by M. <hi>Lewis,</hi> Sold
+by <hi>Thomas Parkhurſt,</hi> at the Bible and three Crowns in
+<hi>Cheapſide,</hi> in which theſe things are more largely diſcuſſed.
+Or they may ſpeak with M. <hi>Lewis</hi> himſelf any <hi>Thurſ<g ref="char:EOLhyphen"/>day</hi>
+in the Afternoon, between three and ſix of the Clock, at the Bolt and Tun in
+<hi>Fleetſtreet.</hi>
+               </p>
+               <p>I will not trouble you with his Diſcourſe, how this Method
+is found<g ref="char:EOLhyphen"/>ed upon the general rule of Speaking, that goes through the World, and
+how the Engliſh Tongue is one of the moſt regular Languages ſpoken upon
+the face of the Earth. The <hi>Grammar</hi> of this being known, it may be a
+Standard to meaſure all other Languages by.</p>
+               <p>If you peruſe his <hi>Apologie,</hi> you will ſee how the
+<hi>Engliſh</hi> is a founda<g ref="char:EOLhyphen"/>tion to the <hi>Latin,</hi> the <hi>Latin</hi>
+to the <hi>Greek,</hi> you may there ſee how he demonſtrates, to learn to
+decline <hi>Greek Nouns,</hi> and form <hi>Greek Verbs,</hi> hath not a fourth
+part of the difficulty in it, as there is in the <hi>Latin.</hi>
+               </p>
+               <p>Let not Perſons raſhly cenſure theſe Propoſals, before
+they have ex<g ref="char:EOLhyphen"/>amined the <hi>Hypotheſis,</hi> and heard what the Author can
+ſay in defence of it.</p>
+               <p>Let no Perſon be diſcouraged, becauſe Grammar, Words, and
+Things, are propoſed to be learnt in ſo ſhort a time; the plainneſs and
+ſhortneſs of the Grammar, the ſeeing the Things, and having the Words in
+ſo ſhort a compaſs, will make the Work eaſie and very delightful.</p>
+               <p>If all I have ſaid may conveniently be done, I expect many
+will de<g ref="char:EOLhyphen"/>ride this Deſign. I am contented, let them abound in their own
+ſenſe, and have Wives as ſilly as themſelves deſire, over whom they
+may ty<g ref="char:EOLhyphen"/>rannize.</p>
+               <p>I hope I ſhall by this Diſcourſe perſwade ſome Parents
+to be more careful for the future of the Breeding of their Daughters. You cark
+and care to get great Portions for them, which ſometimes occaſions their
+ruine. Here is a ſure Portion, an eaſie way to make them excel<g ref="char:EOLhyphen"/>lent. How
+many born to good Fortunes, when their Wealth hath been waſted, have
+ſupported themſelves and Families too by their Wiſ<g ref="char:EOLhyphen"/>dom?</p>
+               <p>I hope ſome of theſe Conſiderations will at leaſt move
+ſome of this a<g ref="char:EOLhyphen"/>buſed Sex to ſet a right value upon themſelves,
+according to the dignity<pb n="42" facs="tcp:64990:22"/>of their Creation, that they might,
+with an honeſt pride and magnani<g ref="char:EOLhyphen"/>mity, ſcorn to be bowed down and made to
+ſtoop to ſuch Follies and Va<g ref="char:EOLhyphen"/>nities, Trifles and Nothings, ſo far below
+them, and unproportionable to their noble Souls, nothing inferior to thoſe of
+Men, and equally pre<g ref="char:EOLhyphen"/>cious to God in Chriſt, in whom there is neither Male
+nor Female.</p>
+               <p>Let a generous reſolution poſſeſs your minds, ſeeing
+Men in this Age have invaded Womens Vices, in a noble revenge, reaſſume
+thoſe Ver<g ref="char:EOLhyphen"/>tues, which Men ſometimes unjuſtly uſurped to themſelves,
+but ought to have left them in common to both Sexes.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>IF any enquire where this Education may be performed; ſuch may
+be informed, That a <hi>School</hi> is lately erected for Gentlewomen at
+<hi>Tottenham-high-Croſs,</hi> within four miles of <hi>London,</hi> in the
+Road to <hi>Ware;</hi> where Mris. <hi>Makin</hi> is Go<g ref="char:EOLhyphen"/>verneſs, who was
+ſometimes Tutoreſs to the Princeſs <hi>Eliſa<g ref="char:EOLhyphen"/>beth,</hi> Daughter to
+King <hi>Charles</hi> the Firſt; Where, by the bleſſing of God,
+Gentlewomen may be inſtructed in the Prin<g ref="char:EOLhyphen"/>ciples of <hi>Religion;</hi> and in
+all manner of Sober and Vertuous Education: More particularly, in all things
+ordinarily taught in other Schools:</p>
+            <p>As, 
+<list>
+                  <item>
+                     <hi>Works of all Sorts,</hi>
+                  </item>
+                  <item>
+                     <hi>Dancing,</hi>
+                  </item>
+                  <item>
+                     <hi>Muſick,</hi>
+                  </item>
+                  <item>
+                     <hi>Singing,</hi>
+                  </item>
+                  <item>
+                     <hi>Writing,</hi>
+                  </item>
+                  <item>
+                     <hi>Keeping Accompts,</hi>
+                  </item>
+               </list>Half the time to be ſpent in theſe Things.</p>
+            <p> The other half to be imployed in gaining the <hi>Latin</hi> and
+<hi>French</hi> Tongues; and thoſe that pleaſe, may learn <hi>Greek</hi>
+and <hi>Hebrew,</hi> the <hi>Italian</hi> and <hi>Spaniſh:</hi> In all which
+this Gen<g ref="char:EOLhyphen"/>tlewomen hath a competent knowledge.</p>
+            <p>
+               <pb n="43" facs="tcp:64990:22"/>Gentlewomen of eight or nine years old, that
+can read well, may be inſtructed in a year or two (according to their Parts)
+in the <hi>Latin</hi> and <hi>French</hi> Tougues; by ſuch plain and ſhort
+Rules, accommodated to the <hi>Grammar</hi> of the <hi>Engliſh</hi> Tongue,
+that they may eaſily keep what they have learned, and recover what they
+ſhall loſe; as thoſe that learn Muſick by Notes.</p>
+            <p>Thoſe that will beſtow longer time, may learn the other
+Languages, afore-mentioned, as they pleaſe.</p>
+            <p>
+               <hi>Repoſitories</hi> alſo for Viſibles ſhall be prepared;
+by which, from beholding the things, Gentlewomen may learn the Names, Natures,
+Values, and Uſe of <hi>Herbs, Shrubs, Trees, Mineral-Juices, Metals</hi> and
+<hi>Stones.</hi>
+            </p>
+            <p>Thoſe that pleaſe, may learn <hi>Limning, Preſerving,
+Pa<g ref="char:EOLhyphen"/>ſtry</hi> and <hi>Cookery.</hi>
+            </p>
+            <p>Thoſe that will allow longer time, may attain ſome gene<g ref="char:EOLhyphen"/>ral
+Knowledge in <hi>Aſtronomy, Geography;</hi> but eſpecially in
+<hi>Arithmetick</hi> and <hi>Hiſtory.</hi>
+            </p>
+            <p>Thoſe that think one Language enough for a Woman, may forbear
+the Languages, and learn onely <hi>Experimental Philoſophy;</hi> and more, or
+fewer of the other things afore<g ref="char:EOLhyphen"/>mentioned, as they incline.</p>
+            <p>The Rate certain ſhal be 20 <hi>l. per annum:</hi> But if a
+compe<g ref="char:EOLhyphen"/>tent improvement be made in the Tongues, and the other things
+aforementioned, as ſhall be agreed upon, then ſome<g ref="char:EOLhyphen"/>thing more will be
+expected. But the Parents ſhall judge what ſhall be deſerved by the
+Undertaker.</p>
+            <p>Thoſe that think theſe Things Improbable or Impracti<g ref="char:EOLhyphen"/>cable,
+may have further account every <hi>Tueſday</hi> at Mr. <hi>Ma<g ref="char:EOLhyphen"/>ſons</hi>
+Coffe-Houſe in <hi>Cornhil,</hi> near the Royal Exchange; and
+<hi>Thurſdayes</hi> at the Bolt and Tun in <hi>Fleetſtreet,</hi> between
+the hours of three and ſix in the Afternoons, by ſome Perſon whom Mris.
+<hi>Makin</hi> ſhall appoint.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
